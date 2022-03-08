@@ -2,7 +2,7 @@
 
 ## Ultrasound
 
-- [5 minute sono Ultrasound Reference (PDF)](/pdfs/Ultrasound Basic Reference Values.pdf)
+- [5 minute sono Ultrasound Reference (PDF)](pdfs/Ultrasound Basic Reference Values.pdf)
 - [The Pocus Atlas](https://www.thepocusatlas.com/)
 - [Core Ultrasound](https://www.coreultrasound.com/)
 - [Highland EM Ultrasound Guided Procedures](https://highlandultrasound.com/)
