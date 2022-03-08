@@ -15,7 +15,16 @@ theme:
 
 nav:
     - High Yield: 'index.md'
-    - Drug Dosing: "drug-dosing.md"
+    - Drug Dosing:
+        - Adult (50kg): "drug-dosing/adult_50.md"
+        - Adult (70kg): "drug-dosing/adult_70.md"
+        - Adult (100kg): "drug-dosing/adult_100.md"
     - Techniques: "by-technique.md"
     - By Specialty: "by-specialty.md"
     - Papers: 'great-papers.md'
+
+
+plugins:
+    - redirects:
+        redirect_maps:
+            'dynamed.md': 'https://search.ebscohost.com/login.aspx?authtype=shib&custid=s8986961&groupid=main&profile=dmp'
