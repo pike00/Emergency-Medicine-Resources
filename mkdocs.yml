@@ -1,0 +1,13 @@
+site_name: Medicine Resources
+site_url: https://em.pike00.com
+site_author: Will Pike
+site_description: "A website dedicated to a curated collection of medicine resources, with an emphasis on Emergency Medicine"
+
+
+copyright: "Copyright Will Pike, 2022"
+
+
+theme:
+  name: null
+  custom_dir: 'cinder'
+  colorscheme: dracula
