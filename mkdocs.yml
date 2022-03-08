@@ -9,5 +9,5 @@ copyright: "Copyright Will Pike, 2022"
 
 theme:
   name: null
-  custom_dir: 'cinder'
+  custom_dir: 'cinder/cinder'
   colorscheme: dracula
