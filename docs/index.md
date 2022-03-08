@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# High-Yield Websites
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- [WikEM](https://wikem.org/)
+- [Dynamed](https://www.dynamed.com/login?returnToUrl=https%3A%2F%2Fwww.dynamed.com%2F)
+- [EM:RAP CorePendium](https://www.emrap.org/corependium/)
+- [UpToDate](https://www.uptodate.com/login)
+- [DDxOf](https://ddxof.com/)
+- [MDCalc](https://www.mdcalc.com/)
+- [MDCalc Guidelines](https://www.mdcalc.com/guidelines#acep)
+- [ACEP Point of Care Tools](https://www.acep.org/patient-care/point-of-care-tools/)
+- [GrepMed](https://www.grepmed.com/)
+- [EM Updates](https://emupdates.com/)
+- [Emergency Central](https://emergency.unboundmedicine.com/emergency/)
+- [NUEM Best FOAM ED Resources](https://www.nuemblog.com/resources)
+- [Core EM](https://coreem.net/)
+- [Life in the Fast Lane (LITFL)](https://litfl.com/)
+- [Academic Life in EM (AliEM)](https://www.aliem.com/)
+- [AliEM Bridge to EM (MS → Intern)](https://www.aliem.com/bridge-to-em/)
 
-## Commands
+# Textbooks
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [Clinical Resources Folder (Google Drive)](https://drive.google.com/open?id=153MFzOniNInGrxtD7w_blN2z9ZO7q82m&authuser=cwp31%40georgetown.edu&usp=drive_fs)
+- [Emergency Medicine Textbook Folder (Google Drive)](https://drive.google.com/drive/folders/17cLD8-9QBOWDF1exerORl_sYg2GmSOJJ?usp=sharing)
+- [Tintinalli's Emergency Medicine (AccessMedicine through DML)](https://go.openathens.net/redirector/georgetown.edu?url=https%3A%2F%2Faccessmedicine.mhmedical.com%2Fbook.aspx%3Fbookid%3D2353)
 
-## Project layout
+# Anatomy Reference
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Wikipedia Surface Anatomy](https://www.wikiwand.com/en/Surface_anatomy)

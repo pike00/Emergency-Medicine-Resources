@@ -11,3 +11,11 @@ theme:
   name: null
   custom_dir: 'cinder/cinder'
   colorscheme: dracula
+
+
+nav:
+    - High Yield: 'index.md'
+    - Drug Dosing: "drug-dosing.md"
+    - Techniques: "by-technique.md"
+    - By Specialty: "by-specialty.md"
+    - Papers: 'great-papers.md'
