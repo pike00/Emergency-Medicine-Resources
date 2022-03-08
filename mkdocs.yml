@@ -7,11 +7,6 @@ site_description: "A website dedicated to a curated collection of medicine resou
 copyright: "Copyright Will Pike, 2022"
 
 
-theme:
-  name: null
-  custom_dir: 'cinder/cinder'
-  colorscheme: dracula
-
 
 nav:
     - High Yield: 'index.md'
