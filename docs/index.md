@@ -24,5 +24,3 @@
 - [Tintinalli's Emergency Medicine (AccessMedicine through DML)](https://go.openathens.net/redirector/georgetown.edu?url=https%3A%2F%2Faccessmedicine.mhmedical.com%2Fbook.aspx%3Fbookid%3D2353)
 
 # Anatomy Reference
-
-- [Wikipedia Surface Anatomy](https://www.wikiwand.com/en/Surface_anatomy)
