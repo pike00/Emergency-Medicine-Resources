@@ -7,10 +7,19 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 - [A Practice Approach to Acid-Base Disorders (1991)](/pdfs/papers/A Practical Approach to Acid-Base Disorders.pdf)
 - [IBCC Fluid Selection + pH-Guided Fluid Resuscitation](https://emcrit.org/ibcc/fluid/)
 
+## Endocrinology
+
+- [Intensive versus Conventional Glucose Control in Critically Ill Patients (2009; NICE-SUGAR)](/pdfs/papers/Intensive versus Conventional Glucose Control in Critically Ill Patients.pdf")
+
 ## Nephrology
 
 - [Using Electrolyte Free Water Balance to Rationalize and Treat Dysnatremias (2018)](/pdfs/papers/Using Electrolyte Free Water Balance to Rationalize and Treat Dysnatremias.pdf)
 
+## Neurology
+
+## Ophtamology
+
+- [Managing Patients with Acute Visual Loss (2022)](/pdfs/papers/Managing Patients with Acute Visual Loss.pdf)
 	
 # Journal Links
 
