@@ -1,10 +1,3 @@
----
-weight: 20
-bookFlatSection: true
-title: "By Specialty"
----
-
-
 # Quick References By Specialty
 
 ## Endocrinology
