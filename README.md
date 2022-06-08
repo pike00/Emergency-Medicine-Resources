@@ -1,4 +1,6 @@
+--- 
 title: Emergency Medicine Resources
+---
 
 - Drug Dosing
 	- [Adult (50kg)](drug-dosing/adult_50.md)
