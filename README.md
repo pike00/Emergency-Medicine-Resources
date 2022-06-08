@@ -1,7 +1,3 @@
---- 
-title: Emergency Medicine Resources
----
-
 # Emergency Medicine Resources
 
 - Drug Dosing
