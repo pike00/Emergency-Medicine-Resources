@@ -18,4 +18,4 @@ nav:
 
 theme:
   name: null
-  custom_dir: cinder/cinder
+  custom_dir: cinder
