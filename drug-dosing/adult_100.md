@@ -12,6 +12,14 @@
 
 ## Intubation
 
+
+
+| foo | bar |
+| --- | --- |
+| baz | bim |
+
+
+
 ### Pre-treatment
 | Medication | Dose | Calculation |
 |------------|-------------|-------------|
