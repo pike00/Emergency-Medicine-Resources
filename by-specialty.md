@@ -17,7 +17,7 @@ title: "By Specialty"
 - [ICU One Pagers](https://onepagericu.com/index)
 - [Rebel EM Critical Care Reviews](https://rebelem.com/rebel-reviews/)
 - [EMRA Pain Management Guide](https://www.emra.org/books/pain-management)
-- [The Resuscitation Crisis Manual](pdfs/The Resuscitation Crisis Manual \(v1.01\).pdf)
+- [The Resuscitation Crisis Manual](../pdfs/The Resuscitation Crisis Manual \(v1.01\).pdf)
 - [Stanford Emergency Manual](pdfs/Stanford Emergency Manual.pdf)
 
 ## Infectious Diseases
