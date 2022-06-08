@@ -3,14 +3,11 @@ site_url: https://em.pike00.com
 site_author: Will Pike
 site_description: "A website dedicated to a curated collection of medicine resources, with an emphasis on Emergency Medicine"
 
-
 copyright: "Copyright Will Pike, 2022"
-
-
 
 nav:
     - High Yield: 'index.md'
-    - Drug Dosing:
+    - Drug Dosing: 
         - Adult (50kg): "drug-dosing/adult_50.md"
         - Adult (70kg): "drug-dosing/adult_70.md"
         - Adult (100kg): "drug-dosing/adult_100.md"
