@@ -2,7 +2,7 @@
 
 ## Ultrasound
 
-- [5 minute sono Ultrasound Reference (PDF)](pdfs/Ultrasound Basic Reference Values.pdf)
+- [5 minute sono Ultrasound Reference (PDF)](pdfs/Ultrasound%20Basic%20Reference%20Values.pdf)
 - [The Pocus Atlas](https://www.thepocusatlas.com/)
 - [Core Ultrasound](https://www.coreultrasound.com/)
 - [Highland EM Ultrasound Guided Procedures](https://highlandultrasound.com/)
@@ -21,4 +21,4 @@
 
 - [Closing the Gap](https://lacerationrepair.com/)
 - [Suture Materials (Core EM)](https://coreem.net/core/suture-materials/)
-- [AliEM Pocket Card (PDF)](/pdfs/sutures/ALiEM Card Laceration Repair and Sutures.pdf)
+- [AliEM Pocket Card (PDF)](pdfs/sutures/ALiEM%20Card%20Laceration%20Repair%20and%20Sutures.pdf)

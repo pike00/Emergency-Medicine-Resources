@@ -4,22 +4,22 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 
 ## Critical Care Medicine
 
-- [A Practice Approach to Acid-Base Disorders (1991)](/pdfs/papers/A Practical Approach to Acid-Base Disorders.pdf)
+- [A Practice Approach to Acid-Base Disorders (1991)](pdfs/papers/A%20Practical%20Approach%20to%20Acid-Base%20Disorders.pdf)
 - [IBCC Fluid Selection + pH-Guided Fluid Resuscitation](https://emcrit.org/ibcc/fluid/)
 
 ## Endocrinology
 
-- [Intensive versus Conventional Glucose Control in Critically Ill Patients (2009; NICE-SUGAR)](/pdfs/papers/Intensive versus Conventional Glucose Control in Critically Ill Patients.pdf")
+- [Intensive versus Conventional Glucose Control in Critically Ill Patients (2009; NICE-SUGAR)](pdfs/papers/Intensive%20versus%20Conventional%20Glucose%20Control%20in%20Critically%20Ill%20Patients.pdf)
 
 ## Nephrology
 
-- [Using Electrolyte Free Water Balance to Rationalize and Treat Dysnatremias (2018)](/pdfs/papers/Using Electrolyte Free Water Balance to Rationalize and Treat Dysnatremias.pdf)
+- [Using Electrolyte Free Water Balance to Rationalize and Treat Dysnatremias (2018)](pdfs/papers/Using%20Electrolyte%20Free%20Water%20Balance%20to%20Rationalize%20and%20Treat%20Dysnatremias.pdf)
 
 ## Neurology
 
 ## Ophtamology
 
-- [Managing Patients with Acute Visual Loss (2022)](/pdfs/papers/Managing Patients with Acute Visual Loss.pdf)
+- [Managing Patients with Acute Visual Loss (2022)](pdfs/papers/Managing%20Patients%20with%20Acute%20Visual%20Loss.pdf)
 
 
 ## Evidence Based Medicine
