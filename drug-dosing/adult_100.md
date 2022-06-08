@@ -12,21 +12,15 @@
 
 ## Intubation
 
-
-
-| foo | bar |
-| --- | --- |
-| baz | bim |
-
-
-
 ### Pre-treatment
+
 | Medication | Dose | Calculation |
 |------------|-------------|-------------|
 | Lidocaine  | 150 mg      | 1.5 mg/kg   |
 | Fentanyl   | 100 mcg      | 1  mcg/kg   |
 
 ### Rapid Sequence Intubation
+
 | Medication      | Dose | Calculation              |
 |-----------------|-------------|--------------------------|
 | Etomidate       | 30 mg       | 0.3 mg/kg                |
@@ -37,6 +31,7 @@
 | Rocuronium      | 100 mg       | 1 mg/kg                  |
 
 ### Equipment
+
 | Name             | Size   |  Calculation           |
 |------------------|--------|----------------|
 | ET Tube (cuffed) | 8 ± 0.5 | age/4+3        |
@@ -45,6 +40,7 @@
 
 
 ## Pulseless Arrest
+
 | Medication                      	| Dose         	| Calculation    	| Maximum 	|
 |---------------------------------	|--------------	|----------------	|---------	|
 | Defibrilation                   	| 200 J        	| 2 J/kg         	| 200 J   	|
@@ -58,6 +54,7 @@
 
 
 ## Cardiac with Pulse
+
 | Medication                    	| Dose                        	| Calculation               	| Maximum              	|
 |-------------------------------	|-----------------------------	|---------------------------	|----------------------	|
 | Adenosine                     	| 6 mg → 12 mg                	| 0.1 mg/kg → 0.2 mg/kg     	| 6 mg → 12mg          	|
@@ -73,6 +70,7 @@
 
 
 ## Hypoglycemia
+
 | Medication  	| Dose           	| Calculation  	|
 |-------------	|----------------	|--------------	|
 |  D50W       	| 50 mL (1 amp)  	| 1 mL/kg      	|
@@ -82,6 +80,7 @@
 
 
 ## Vasopressors
+
 | Medication     	| IV Dose Rate     	| Concentration        	|
 |----------------	|------------------	|----------------------	|
 | Norepinephrine 	| 0.1-2 mcg/kg/min 	| 8mg in 500mL D5W     	|
@@ -90,6 +89,7 @@
 | Epinephrine    	| 0.1-1 mcg/kg/min 	| 1mg in 250 D5W       	|
 
 ## Sedation
+
 | Medication          	| Dose     	| Calculation     	| Maximum       	|
 |---------------------	|----------	|-----------------	|---------------	|
 | Lorazepam (Ativan)  	| 2 mg     	| 0.05 mg/kg      	| 2 mg per dose 	|
@@ -101,6 +101,7 @@
 | Propofol (Infusion) 	| 5 000 mcg/min 	| 50  mcg/kg/min  	|               	|
 
 ## Seizure and CNS
+
 | Medication                               	| Dose     	| Calculation    	| Maximum       	|
 |------------------------------------------	|----------	|----------------	|---------------	|
 | Lorazepam (Ativan)                       	| 2 mg     	| 0.05 mg/kg     	| 2 mg per dose 	|
@@ -112,6 +113,7 @@
 | Mannitol                                 	| 100 g     	| 1 g/kg         	|               	|
 
 ## Other Equipment
+
 | Device     	| Normal Sizing                                             	|
 |------------	|-----------------------------------------------------------	|
 | Chest Tube 	| 42 French for surgical.  Consider Pigtail if no trauma 	|
