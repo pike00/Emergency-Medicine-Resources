@@ -19,7 +19,7 @@ nav:
     - Papers: 'great-papers.md'
 
 
-plugins:
-    - redirects:
-        redirect_maps:
-            'dynamed.md': 'https://search.ebscohost.com/login.aspx?authtype=shib&custid=s8986961&groupid=main&profile=dmp'
+# plugins:
+#     - redirects:
+#         redirect_maps:
+#             'dynamed.md': 'https://search.ebscohost.com/login.aspx?authtype=shib&custid=s8986961&groupid=main&profile=dmp'
