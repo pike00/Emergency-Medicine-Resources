@@ -27,14 +27,6 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 - [Why I've Lost Faith in p values (2018, Steve Luck)](https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values), and [Part 2](https://lucklab.ucdavis.edu/blog/2018/4/28/why-ive-lost-faith-in-p-values-part-2)
 	- "P values do not represent the probability of a Type I error in a given experiment"
 	
-# Journal Links
-
-- [NEJM (Georgetown Access)](https://www-nejm-org.proxy.library.georgetown.edu/)
-- [JAMA (Georgetown Access)](https://dml.tdnetdiscover.com/logging/outgoing?url=https%3A%2F%2Fgo.openathens.net%2Fredirector%2Fgeorgetown.edu%3Furl%3Dhttps%253A%252F%252Fjamanetwork.com%252Fjournals%252Fjama&key=150b69dc-4e3a-4f96-a392-67a5a9669f49)
-- [JAMA Evidence](https://go.openathens.net/redirector/georgetown.edu?url=http%3A%2F%2Fjamaevidence.mhmedical.com)
-	- Users' Guide to the Medical Literature
-	- The Rational Clinical Exam
-	- JAMA Guide to Statistics and Methods
 
 # Other Blogs
 
