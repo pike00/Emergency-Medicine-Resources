@@ -7,6 +7,10 @@ title: "By Specialty"
 
 # Quick References By Specialty
 
+## Endocrinology
+- [JHU Prescriber Tools For Inpatient Glucose Management](https://livejohnshopkins.sharepoint.com/:b:/s/GlucoseSteeringCommittee/EQSCvNrJu8lFuVgkZB7tt00B3-nsloF0zOvgG8O2hu7eqQ?e=3g9YP9)
+
+
 ## Critical Care
 
 - [Internet Book of Critical Care (IBCC) - emcrit.org](https://emcrit.org/ibcc/toc/)
