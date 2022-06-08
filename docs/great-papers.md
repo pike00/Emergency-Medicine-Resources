@@ -20,6 +20,12 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 ## Ophtamology
 
 - [Managing Patients with Acute Visual Loss (2022)](/pdfs/papers/Managing Patients with Acute Visual Loss.pdf)
+
+
+## Evidence Based Medicine
+
+- [Why I've Lost Faith in p values (2018, Steve Luck)](https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values), and [Part 2](https://lucklab.ucdavis.edu/blog/2018/4/28/why-ive-lost-faith-in-p-values-part-2)
+	- "P values do not represent the probability of a Type I error in a given experiment"
 	
 # Journal Links
 
