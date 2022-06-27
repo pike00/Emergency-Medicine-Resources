@@ -6,6 +6,7 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 
 - [A Practice Approach to Acid-Base Disorders (1991)](pdfs/papers/A%20Practical%20Approach%20to%20Acid-Base%20Disorders.pdf)
 - [IBCC Fluid Selection + pH-Guided Fluid Resuscitation](https://emcrit.org/ibcc/fluid/)
+- [Why Cardiac Monitors don't show ST Deviations Very Well (4/2022)](https://hqmeded-ecg.blogspot.com/2022/04/what-do-you-think-when-you-see-st.html?m=1)
 
 ## Endocrinology
 
