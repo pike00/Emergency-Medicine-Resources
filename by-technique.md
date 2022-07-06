@@ -15,6 +15,7 @@
 - [ECG Wave Maven](https://ecg.bidmc.harvard.edu/maven/displist.asp?ans=0)
 - [Dr. Smith's ECG Blog](https://hqmeded-ecg.blogspot.com/)
 - [LITFL ECG Library](https://litfl.com/ecg-library/)
+- [ECG Waves.org (Paid)](https://ecgwaves.com/)
 
 
 ## Laceration Repair
