@@ -27,3 +27,8 @@
 ## Splinting
 
 - [EMRA Sports Medicine Splinting Guide](pdfs/EMRA%20Sports%20Medicine%20Splinting%20Techniques.pdf)
+- [AliEM SplintER Series](https://www.aliem.com/splinter-series/)
+	- [Principles](https://www.aliem.com/splinter-series-splint-principles-101/)
+	- [Application](https://www.aliem.com/splinter-series-splint-application-principles-102/)
+	- [Complications + Discharge Care](https://www.aliem.com/splinter-series-103/)
+	- [Common ED Splint Techniques](https://www.aliem.com/splinter-series-104/)
