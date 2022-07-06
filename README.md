@@ -28,11 +28,4 @@
 - [Life in the Fast Lane (LITFL)](https://litfl.com/)
 - [Academic Life in EM (AliEM)](https://www.aliem.com/)
 - [AliEM Bridge to EM (MS → Intern)](https://www.aliem.com/bridge-to-em/)
-
-# Textbooks
-
-- [Clinical Resources Folder (Google Drive)](https://drive.google.com/open?id=153MFzOniNInGrxtD7w_blN2z9ZO7q82m&authuser=cwp31%40georgetown.edu&usp=drive_fs)
-- [Emergency Medicine Textbook Folder (Google Drive)](https://drive.google.com/drive/folders/17cLD8-9QBOWDF1exerORl_sYg2GmSOJJ?usp=sharing)
-- [Tintinalli's Emergency Medicine (AccessMedicine through DML)](https://go.openathens.net/redirector/georgetown.edu?url=https%3A%2F%2Faccessmedicine.mhmedical.com%2Fbook.aspx%3Fbookid%3D2353)
-
-# Anatomy Reference
+- [ICU OnePager](https://onepagericu.com/)
