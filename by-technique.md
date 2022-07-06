@@ -26,4 +26,4 @@
 
 ## Splinting
 
-- [EMRA Sports Medicine Splinting Guide](pdfs/EMRA%20Sports%20Medicine%20Splinting%20Techniques.pdf")
+- [EMRA Sports Medicine Splinting Guide](pdfs/EMRA%20Sports%20Medicine%20Splinting%20Techniques.pdf)
