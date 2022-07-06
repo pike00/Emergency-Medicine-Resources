@@ -22,3 +22,7 @@
 - [Closing the Gap](https://lacerationrepair.com/)
 - [Suture Materials (Core EM)](https://coreem.net/core/suture-materials/)
 - [AliEM Pocket Card (PDF)](pdfs/sutures/ALiEM%20Card%20Laceration%20Repair%20and%20Sutures.pdf)
+
+## Splinting
+
+- [EMRA Sports Medicine Splinting Guide](pdfs/EMRA%20Sports%20Medicine%20Splinting%20Techniques.pdf")
