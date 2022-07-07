@@ -8,6 +8,7 @@
 - [Highland EM Ultrasound Guided Procedures](https://highlandultrasound.com/)
 - [Ultrasound of the Week](https://www.coreultrasound.com/category/ultrasound-of-the-week/)
 - [Clinical Echocardiogram Book](https://ecgwaves.com/course/clinical-echocardiography/)
+- [Ultrasound Measurements Pocket Card (PDF)](pdfs/Ultrasound%20Measurements%20Pocketcard%204x6.pdf)
 
 
 ## ECG
