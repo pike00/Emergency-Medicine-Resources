@@ -59,3 +59,8 @@
 ## Laboratory Medicine
 
 - [Labpedia](https://labpedia.net/)
+
+
+## Dentistry
+
+- [Teeth Numbering Chart](img/tooth_numbering.jpg)
