@@ -1,9 +1,9 @@
 # Emergency Medicine Resources
 
 - Drug Dosing
-	- [Adult (50kg)](drug-dosing/adult_50.md)
-	- [Adult (70kg)](drug-dosing/adult_70.md)
-	- [Adult (100kg)](drug-dosing/adult_100.md)
+	- [Adult (50kg)](drugs/adult_50.md)
+	- [Adult (70kg)](drugs/adult_70.md)
+	- [Adult (100kg)](drugs/adult_100.md)
 - [Resources by Specialty](by-specialty.md)
 - [Resources by Technique](by-technique.md)
 - [Great Papers](great-papers.md)
