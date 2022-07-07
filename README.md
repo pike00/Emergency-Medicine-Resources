@@ -4,6 +4,7 @@
 	- [Adult (50kg)](drugs/adult_50.md)
 	- [Adult (70kg)](drugs/adult_70.md)
 	- [Adult (100kg)](drugs/adult_100.md)
+- [Drug References](drugs/reference.md)
 - [Resources by Specialty](by-specialty.md)
 - [Resources by Technique](by-technique.md)
 - [Great Papers](great-papers.md)
