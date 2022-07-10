@@ -7,6 +7,10 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 - [A Practice Approach to Acid-Base Disorders (1991)](pdfs/papers/A%20Practical%20Approach%20to%20Acid-Base%20Disorders.pdf)
 - [IBCC Fluid Selection + pH-Guided Fluid Resuscitation](https://emcrit.org/ibcc/fluid/)
 - [Why Cardiac Monitors don't show ST Deviations Very Well (4/2022)](https://hqmeded-ecg.blogspot.com/2022/04/what-do-you-think-when-you-see-st.html?m=1)
+- [The Delta Gap and Delta Ratio (6/2015)](https://derangedphysiology.com/main/cicm-primary-exam/required-reading/acid-base-physiology/Chapter%20705/delta-gap-and-delta-ratio): How to interpret the "Delta Gap" and "Delta Ratio" (Also called the Delta:Delta) using physiology. (See also [Tsapenko (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3562975/))
+	- If ΔAG < ΔHCO3 → There is another process causing acidosis outside of the HAGMA process → Combined HAGMA + NAGMA
+	- If ΔAG > ΔHCO3 → There is another process causing **more** base that would be expected → Combined HAGMA + Metabolic *Alkalosis*
+	- Fun Fact: You don't even need [HCO3] to calculate it: Delta Gap = Na - Cl - 36
 
 ## Endocrinology
 
