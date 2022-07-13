@@ -12,6 +12,7 @@
 - [EMRA Pain Management Guide](https://www.emra.org/books/pain-management)
 - [The Resuscitation Crisis Manual](pdfs/The%20Resuscitation%20Crisis%20Manual%20(v1.01).pdf)
 - [Stanford Emergency Manual](pdfs/Stanford%20Emergency%20Manual.pdf)
+- [Shock Index Calculator (MDCalc)](https://www.mdcalc.com/calc/1316/shock-index)
 
 ## Infectious Diseases
 
