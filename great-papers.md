@@ -31,6 +31,7 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 
 - [Why I've Lost Faith in p values (2018, Steve Luck)](https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values), and [Part 2](https://lucklab.ucdavis.edu/blog/2018/4/28/why-ive-lost-faith-in-p-values-part-2)
 	- "P values do not represent the probability of a Type I error in a given experiment"
+- [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations (2016)](pdfs/papers/Statistical%20tests,%20P%20values,%20confidence%20intervals,%20and%20power.pdf)
 	
 
 # Other Blogs
