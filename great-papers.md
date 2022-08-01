@@ -19,6 +19,9 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 ## Nephrology
 
 - [Using Electrolyte Free Water Balance to Rationalize and Treat Dysnatremias (2018)](pdfs/papers/Using%20Electrolyte%20Free%20Water%20Balance%20to%20Rationalize%20and%20Treat%20Dysnatremias.pdf)
+- [Contrast Nephropathy, myth thereof (EMCrit, Internet Book of Critical Care)](https://emcrit.org/ibcc/contrast/)
+	- "Overall, given the massive amount of study which has been spent on this issue, it's highly reassuring that no definitive evidence of harm [of contrast material on renal function] has been found"
+	- "We worry a lot about contrast nephropathy because it has its own special name.  Meanwhile, we often don't think much about other drugs [eg. Vancomycin, Aminoglycosides, Amphotericin, Acyclovir, ACEi, ARBs, NSAIDs, Mannitol], which are **proven nephrotoxins**"
 
 ## Neurology
 
