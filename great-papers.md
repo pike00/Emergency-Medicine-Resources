@@ -29,6 +29,9 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 
 - [Managing Patients with Acute Visual Loss (2022)](pdfs/papers/Managing%20Patients%20with%20Acute%20Visual%20Loss.pdf)
 
+## Orthopdics
+
+- [Managing Elbow Dislocations (2022)](pdfs/papers/Managing%20Elbow%20Dislocations.pdf)
 
 ## Evidence Based Medicine
 
