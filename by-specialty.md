@@ -18,6 +18,9 @@
 
 - [Stanford Health Antibiogram](https://web.stanford.edu/~jonc101/tools/Antibiogram/AntibiogramTable.htm)
 
+## Neurology
+- [Stroke Algorithm](img/Stroke%20Algorithm.jpg)
+
 ## Radiology
 
 - [Radiopaedia](https://radiopaedia.org/)
