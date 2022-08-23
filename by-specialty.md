@@ -53,6 +53,8 @@
 ## Psychiatry
 
 - [Psychopharmacopeia](https://psychopharmacopeia.com/index.php/)
+- [Buprenorphine Use in the Emergency Department Tool (BUPE; ACEP)](https://www.acep.org/patient-care/bupe/)
+- [Acute Pain Management in a patient on chronic buprenorphine (IBCC)](https://emcrit.org/ibcc/buprenorphine/#acute_pain_management_in_a_patient_on_chronic_buprenorphine)
 
 ## Pharmacology
 
