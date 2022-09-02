@@ -18,6 +18,8 @@
 ## Infectious Diseases
 
 - [Stanford Health Antibiogram](https://web.stanford.edu/~jonc101/tools/Antibiogram/AntibiogramTable.htm)
+- [Antibiotic Graph](img/Antibiotic%20Coverage%20Graph.png)
+- [Classification of Antibiotics](img/Classification%20of%20Antibiotics)
 
 ## Neurology
 - [Stroke Algorithm](img/Stroke%20Algorithm.jpg)
