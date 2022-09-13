@@ -17,6 +17,7 @@
 - [Dr. Smith's ECG Blog](https://hqmeded-ecg.blogspot.com/)
 - [LITFL ECG Library](https://litfl.com/ecg-library/)
 - [ECG Waves.org (Paid)](https://ecgwaves.com/)
+- [The T Wave - physiologic and pathologic variants](https://ecgwaves.com/the-t-wave-physiology-variants-and-ecg-features/)
 
 
 ## Laceration Repair
