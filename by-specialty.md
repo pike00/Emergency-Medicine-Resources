@@ -14,6 +14,7 @@
 - [Stanford Emergency Manual](pdfs/Stanford%20Emergency%20Manual.pdf)
 - [Shock Index Calculator (MDCalc)](https://www.mdcalc.com/calc/1316/shock-index)
 - [ARDSNet Protocol](pdfs/ARDSnet%20Protocol.pdf)
+- [EMCrit Acid Base](pdf/EMCrit%20Acid%20Based%20Sheet.pdf)
 
 ## Infectious Diseases
 

@@ -9,8 +9,6 @@
 - [Resources by Technique](by-technique.md)
 - [Great Papers](great-papers.md)
 
-
-
 # High-Yield Websites
 
 - [WikEM](https://wikem.org/)
