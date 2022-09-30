@@ -9,12 +9,15 @@
 - [Internet Book of Critical Care (IBCC) - emcrit.org](https://emcrit.org/ibcc/toc/)
 - [ICU One Pagers](https://onepagericu.com/index)
 - [Rebel EM Critical Care Reviews](https://rebelem.com/rebel-reviews/)
-- [EMRA Pain Management Guide](https://www.emra.org/books/pain-management)
 - [The Resuscitation Crisis Manual](pdfs/The%20Resuscitation%20Crisis%20Manual%20(v1.01).pdf)
 - [Stanford Emergency Manual](pdfs/Stanford%20Emergency%20Manual.pdf)
 - [Shock Index Calculator (MDCalc)](https://www.mdcalc.com/calc/1316/shock-index)
 - [ARDSNet Protocol](pdfs/ARDSnet%20Protocol.pdf)
 - [EMCrit Acid Base](pdf/EMCrit%20Acid%20Based%20Sheet.pdf)
+
+## Anethesiology
+- [PAMI Pain Management and Dosing Guide](pdfs/PAMI%20Pain%20Management%20Guide.pdf)
+- [EMRA Pain Management Guide](https://www.emra.org/books/pain-management)
 
 ## Infectious Diseases
 
