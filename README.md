@@ -12,9 +12,9 @@
 # High-Yield Websites
 
 - [WikEM](https://wikem.org/)
-- [Dynamed](https://www.dynamed.com/login?returnToUrl=https%3A%2F%2Fwww.dynamed.com%2F)
+- [Dynamedex](http://proxy.library.jhu.edu/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s3555472&groupid=main&profile=dmx)
 - [EM:RAP CorePendium](https://www.emrap.org/corependium/)
-- [UpToDate](https://www.uptodate.com/login)
+- [UpToDate](http://proxy.library.jhu.edu/login?url=https://www.uptodate.com/contents/search)
 - [DDxOf](https://ddxof.com/)
 - [MDCalc](https://www.mdcalc.com/)
 - [MDCalc Guidelines](https://www.mdcalc.com/guidelines#acep)
