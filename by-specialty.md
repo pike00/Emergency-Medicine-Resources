@@ -16,6 +16,9 @@
 - [EMCrit Acid Base](pdf/EMCrit%20Acid%20Based%20Sheet.pdf)
 - [Ventilator Mode Chart (pdf)](pdfs/Ventilator%20Mode%20Chart.pdf)
 
+## Cardiology
+- [LVAD Complications Evaluation and Workup (pdf)](pdfs/LVAD%20Complications.pdf)
+
 ## Anethesiology
 - [PAMI Pain Management and Dosing Guide](pdfs/PAMI%20Pain%20Management%20Guide.pdf)
 - [EMRA Pain Management Guide](https://www.emra.org/books/pain-management)
