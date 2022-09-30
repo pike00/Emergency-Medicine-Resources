@@ -14,6 +14,7 @@
 - [Shock Index Calculator (MDCalc)](https://www.mdcalc.com/calc/1316/shock-index)
 - [ARDSNet Protocol](pdfs/ARDSnet%20Protocol.pdf)
 - [EMCrit Acid Base](pdf/EMCrit%20Acid%20Based%20Sheet.pdf)
+- [Ventilator Mode Chart (pdf)](pdfs/Ventilator%20Mode%20Chart.pdf)
 
 ## Anethesiology
 - [PAMI Pain Management and Dosing Guide](pdfs/PAMI%20Pain%20Management%20Guide.pdf)
