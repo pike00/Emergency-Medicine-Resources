@@ -16,6 +16,7 @@
 - [EMCrit Acid Base](pdf/EMCrit%20Acid%20Based%20Sheet.pdf)
 - [Ventilator Mode Chart (pdf)](pdfs/Ventilator%20Mode%20Chart.pdf)
 - [Vent Basics](https://ventbasics.com/)
+- [ICU Bootcamp (Youtube)](https://www.youtube.com/playlist?list=PLRGsEja6ulHa7V962dgZs_Kifgc4KB5dG)
 
 ## Cardiology
 - [LVAD Complications Evaluation and Workup (pdf)](pdfs/LVAD%20Complications.pdf)
