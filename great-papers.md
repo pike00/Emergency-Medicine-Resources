@@ -2,6 +2,9 @@
 
 Here, I compiled a list of papers that I find useful for clinical medicine. These are not the 'seminal' papers *per se*, but rather papers that are useful to learn/solidify material. Check out [Wiki Journal Club](https://www.wikijournalclub.org/wiki/Main_Page) for those. 
 
+## Emergency Medicine
+- [ABEM Reading Lists](https://www.abem.org/public/stay-certified/lifelong-learning-and-self-assessment-(lls)/reading-lists/archived-llsa-reading-lists)
+
 ## Critical Care Medicine
 
 - [A Practice Approach to Acid-Base Disorders (1991)](pdfs/papers/A%20Practical%20Approach%20to%20Acid-Base%20Disorders.pdf)
