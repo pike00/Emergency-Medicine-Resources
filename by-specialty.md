@@ -37,7 +37,7 @@
 ## Radiology
 
 - [Radiopaedia](https://radiopaedia.org/)
-- [UVA Introduction to Radiology Series](https://introductiontoradiology.net/)
+- [UVA Introduction to Radiology Series](https://introductiontoradiology.net/)	
 - [ACR Appropriateness Criteria](https://acsearch.acr.org/list)
 - [CREATE Radiology Teaching](https://www.create-rad.com/)
 
@@ -56,6 +56,10 @@
 - [ObG Project](https://www.obgproject.com/)
 - [Drugs and Lactation Database (LactMed)](https://www.ncbi.nlm.nih.gov/books/NBK501922/) 
 - [Infant Risk Center](https://www.infantrisk.com/infantrisk-center-resources)
+
+## Neurology
+
+- [Drugs that can exacerbate Myasthenia Gravis](pdfs/papers/Drugs%20that%20Aggravate%20Myasthenia%20Gravis.pdf)
 
 ## Orthopedics
 
