@@ -33,6 +33,7 @@
 
 ## Neurology
 - [Stroke Algorithm](img/Stroke%20Algorithm.jpg)
+- [Drugs that can exacerbate Myasthenia Gravis](pdfs/papers/Drugs%20that%20Aggravate%20Myasthenia%20Gravis.pdf)
 
 ## Radiology
 
@@ -56,10 +57,6 @@
 - [ObG Project](https://www.obgproject.com/)
 - [Drugs and Lactation Database (LactMed)](https://www.ncbi.nlm.nih.gov/books/NBK501922/) 
 - [Infant Risk Center](https://www.infantrisk.com/infantrisk-center-resources)
-
-## Neurology
-
-- [Drugs that can exacerbate Myasthenia Gravis](pdfs/papers/Drugs%20that%20Aggravate%20Myasthenia%20Gravis.pdf)
 
 ## Orthopedics
 
