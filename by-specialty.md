@@ -1,11 +1,13 @@
 # Quick References By Specialty
 
-## Endocrinology
-- [JHU Prescriber Tools For Inpatient Glucose Management](https://livejohnshopkins.sharepoint.com/:b:/s/GlucoseSteeringCommittee/EQSCvNrJu8lFuVgkZB7tt00B3-nsloF0zOvgG8O2hu7eqQ?e=3g9YP9)
+## Anethesiology
+- [PAMI Pain Management and Dosing Guide](pdfs/PAMI%20Pain%20Management%20Guide.pdf)
+- [EMRA Pain Management Guide](https://www.emra.org/books/pain-management)
 
+## Cardiology
+- [LVAD Complications Evaluation and Workup (pdf)](pdfs/LVAD%20Complications.pdf)
 
 ## Critical Care
-
 - [Internet Book of Critical Care (IBCC) - emcrit.org](https://emcrit.org/ibcc/toc/)
 - [ICU One Pagers](https://onepagericu.com/index)
 - [Rebel EM Critical Care Reviews](https://rebelem.com/rebel-reviews/)
@@ -18,12 +20,12 @@
 - [Vent Basics](https://ventbasics.com/)
 - [ICU Bootcamp (Youtube)](https://www.youtube.com/playlist?list=PLRGsEja6ulHa7V962dgZs_Kifgc4KB5dG)
 
-## Cardiology
-- [LVAD Complications Evaluation and Workup (pdf)](pdfs/LVAD%20Complications.pdf)
 
-## Anethesiology
-- [PAMI Pain Management and Dosing Guide](pdfs/PAMI%20Pain%20Management%20Guide.pdf)
-- [EMRA Pain Management Guide](https://www.emra.org/books/pain-management)
+## Ears, Nose, Throat; Densitry
+- [Teeth Numbering Chart](img/tooth_numbering.jpg)
+
+## Endocrinology
+- [JHU Prescriber Tools For Inpatient Glucose Management](https://livejohnshopkins.sharepoint.com/:b:/s/GlucoseSteeringCommittee/EQSCvNrJu8lFuVgkZB7tt00B3-nsloF0zOvgG8O2hu7eqQ?e=3g9YP9)
 
 ## Infectious Diseases
 
@@ -31,19 +33,24 @@
 - [Antibiotic Graph](img/Antibiotic%20Coverage%20Graph.png)
 - [Classification of Antibiotics](img/Classification%20of%20Antibiotics.png)
 
+## Laboratory Medicine
+- [Labpedia](https://labpedia.net/)
+
 ## Neurology
 - [Stroke Algorithm](img/Stroke%20Algorithm.jpg)
 - [Drugs that can exacerbate Myasthenia Gravis](pdfs/papers/Drugs%20that%20Aggravate%20Myasthenia%20Gravis.pdf)
 
-## Radiology
+## Obstetrics & Gynecology
+- [ObG Project](https://www.obgproject.com/)
+- [Drugs and Lactation Database (LactMed)](https://www.ncbi.nlm.nih.gov/books/NBK501922/) 
+- [Infant Risk Center](https://www.infantrisk.com/infantrisk-center-resources)
 
-- [Radiopaedia](https://radiopaedia.org/)
-- [UVA Introduction to Radiology Series](https://introductiontoradiology.net/)	
-- [ACR Appropriateness Criteria](https://acsearch.acr.org/list)
-- [CREATE Radiology Teaching](https://www.create-rad.com/)
+## Orthopedics
+- [OrthoBullets](https://www.orthobullets.com/login)
+- [Northwestern Orthopedic Teaching](https://www.ortho-teaching.feinberg.northwestern.edu/)
+- [Interpretation of Arthrocentesis](img/Interpretation%20of%20Arthrocentesis.png) ([EBMedicine Revieiw on Acute Joint Pain](https://www.ebmedicine.net/topics/musculoskeletal/joint-pain), 1/2022)
 
 ## Pediatrics
-
 - [CHOP Pathways](https://www.chop.edu/pathways/)
 - [Skin Deep Dermatology](https://dftbskindeep.com/)
 - [Don't Forget the Bubbles Quick References](https://dontforgetthebubbles.com/quick-reference/)
@@ -51,37 +58,13 @@
 - [UTI Calculator](https://uticalc.pitt.edu/)
 - [PECARN Rule (Low Risk Febrile Infants 29-60 days old)](https://www.mdcalc.com/pecarn-rule-low-risk-febrile-infants-29-60-days-old)
 
-
-## Obstetrics & Gynecology
-
-- [ObG Project](https://www.obgproject.com/)
-- [Drugs and Lactation Database (LactMed)](https://www.ncbi.nlm.nih.gov/books/NBK501922/) 
-- [Infant Risk Center](https://www.infantrisk.com/infantrisk-center-resources)
-
-## Orthopedics
-
-- [OrthoBullets](https://www.orthobullets.com/login)
-- [Northwestern Orthopedic Teaching](https://www.ortho-teaching.feinberg.northwestern.edu/)
-- [Interpretation of Arthrocentesis](img/Interpretation%20of%20Arthrocentesis.png) ([EBMedicine Revieiw on Acute Joint Pain](https://www.ebmedicine.net/topics/musculoskeletal/joint-pain), 1/2022)
-
-
 ## Psychiatry
-
 - [Psychopharmacopeia](https://psychopharmacopeia.com/index.php/)
 - [Buprenorphine Use in the Emergency Department Tool (BUPE; ACEP)](https://www.acep.org/patient-care/bupe/)
 - [Acute Pain Management in a patient on chronic buprenorphine (IBCC)](https://emcrit.org/ibcc/buprenorphine/#acute_pain_management_in_a_patient_on_chronic_buprenorphine)
 
-## Pharmacology
-
+## Radiology
+- [Radiopaedia](https://radiopaedia.org/)
 - [UVA Introduction to Radiology Series](https://introductiontoradiology.net/)	
-- [The Medical Letter](https://go.openathens.net/redirector/georgetown.edu?url=http%3A%2F%2Fmedicalletter.org%2Finstitutions%2Fgumc%2F)
-
-
-## Laboratory Medicine
-
-- [Labpedia](https://labpedia.net/)
-
-
-## Dentistry
-
-- [Teeth Numbering Chart](img/tooth_numbering.jpg)
+- [ACR Appropriateness Criteria](https://acsearch.acr.org/list)
+- [CREATE Radiology Teaching](https://www.create-rad.com/)
