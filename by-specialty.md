@@ -73,7 +73,7 @@
 
 ## Pharmacology
 
-- [Epocrates](https://www.epocrates.com/sessionManager.do?type=rxweb&referurl=/online.do&refernext=https://online.epocrates.com/rxmain.jsp)
+- [UVA Introduction to Radiology Series](https://introductiontoradiology.net/)	
 - [The Medical Letter](https://go.openathens.net/redirector/georgetown.edu?url=http%3A%2F%2Fmedicalletter.org%2Finstitutions%2Fgumc%2F)
 
 

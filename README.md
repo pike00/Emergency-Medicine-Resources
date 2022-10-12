@@ -28,3 +28,4 @@
 - [Academic Life in EM (AliEM)](https://www.aliem.com/)
 - [AliEM Bridge to EM (MS → Intern)](https://www.aliem.com/bridge-to-em/)
 - [ICU OnePager](https://onepagericu.com/)
+- [Epocrates](https://www.epocrates.com/sessionManager.do?type=rxweb&referurl=/online.do&refernext=https://online.epocrates.com/rxmain.jsp)
