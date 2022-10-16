@@ -23,6 +23,12 @@
 
 ## Ears, Nose, Throat; Densitry
 - [Teeth Numbering Chart](img/tooth_numbering.jpg)
+	- [Pediatric](img/pediatric_tooth_numbering.webp)
+- [SmilER series (AliEM)]
+	- [101: Oral Exam and Regional Anesthesia in Dental Care](https://www.aliem.com/smiler-101/)
+	- [102: Dental Trauma](https://www.aliem.com/smiler-102/)
+	- [103: Odontogenic Infections](https://www.aliem.com/smiler-103/)
+	- [104: Pericoronitis and Dry Socket](https://www.aliem.com/smiler-104/)
 
 ## Endocrinology
 - [JHU Prescriber Tools For Inpatient Glucose Management](https://livejohnshopkins.sharepoint.com/:b:/s/GlucoseSteeringCommittee/EQSCvNrJu8lFuVgkZB7tt00B3-nsloF0zOvgG8O2hu7eqQ?e=3g9YP9)
