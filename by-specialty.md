@@ -30,8 +30,14 @@
 ## Infectious Diseases
 
 - [Stanford Health Antibiogram](https://web.stanford.edu/~jonc101/tools/Antibiogram/AntibiogramTable.htm)
-- [Antibiotic Graph](img/Antibiotic%20Coverage%20Graph.png)
+- Antibiotic Coverage [Graph 1](img/Antibiotic%20Coverage%20Graph%201.png), [Graph 2](pdfs/Antibiotic%20Coverage%20Graph.pdf), [tl;dr Pharmacy](pdfs/tldr_antibiotics_cheatsheet.pdf), [Graph 3](img/Antibiotic%20Coverage%20Graph%202.jpg)
+- [Antibiotic Pocket Guide](pdfs/Antibiotic%20Pocket%20Guide.pdf)
 - [Classification of Antibiotics](img/Classification%20of%20Antibiotics.png)
+- Antibiotic Math
+	- Cefepime = Ceftriaxone + Pseudomonal coverage
+	- Piperacillin/Tazobactam = Cefepime + Anaerobic Coverage
+	- Meropenem = Piperacillin/Tazobactam + ESBL Coverage
+	- Ertapenem = Meropenem - Pseudomonal Coverage
 
 ## Laboratory Medicine
 - [Labpedia](https://labpedia.net/)
