@@ -24,7 +24,7 @@
 ## Ears, Nose, Throat; Densitry
 - [Teeth Numbering Chart](img/tooth_numbering.jpg)
 	- [Pediatric](img/pediatric_tooth_numbering.webp)
-- [SmilER series (AliEM)]
+- SmilER series (AliEM)
 	- [101: Oral Exam and Regional Anesthesia in Dental Care](https://www.aliem.com/smiler-101/)
 	- [102: Dental Trauma](https://www.aliem.com/smiler-102/)
 	- [103: Odontogenic Infections](https://www.aliem.com/smiler-103/)
@@ -36,7 +36,7 @@
 ## Infectious Diseases
 
 - [Stanford Health Antibiogram](https://web.stanford.edu/~jonc101/tools/Antibiogram/AntibiogramTable.htm)
-- Antibiotic Coverage [Graph 1](img/Antibiotic%20Coverage%20Graph%201.png), [Graph 2](pdfs/Antibiotic%20Coverage%20Graph.pdf), [tl;dr Pharmacy](pdfs/tldr_antibiotics_cheatsheet.pdf), [Graph 3](img/Antibiotic%20Coverage%20Graph%202.jpg)
+- Antibiotic Coverage [Graph 1](img/Antibiotic%20Coverage%20Graph%201.png), [Graph 2](pdfs/Antibiotic%20Coverage%20Graph.pdf), [tl;dr Pharmacy](pdfs/tldr_antibiotics_cheatsheet.pdf), [Graph 3](img/antibiotic%20coverage%20graph%202.jpg)
 - [Antibiotic Pocket Guide](pdfs/Antibiotic%20Pocket%20Guide.pdf)
 - [Classification of Antibiotics](img/Classification%20of%20Antibiotics.png)
 - Antibiotic Math
