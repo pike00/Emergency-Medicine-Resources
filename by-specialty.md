@@ -75,6 +75,9 @@
 - [Buprenorphine Use in the Emergency Department Tool (BUPE; ACEP)](https://www.acep.org/patient-care/bupe/)
 - [Acute Pain Management in a patient on chronic buprenorphine (IBCC)](https://emcrit.org/ibcc/buprenorphine/#acute_pain_management_in_a_patient_on_chronic_buprenorphine)
 
+## Toxicology
+- [EXTRIP: Extracorporeal Treatments in Poisoning Workshop Recommendations](https://www.extrip-workgroup.org/recommendations)
+
 ## Radiology
 - [Radiopaedia](https://radiopaedia.org/)
 - [UVA Introduction to Radiology Series](https://introductiontoradiology.net/)	
