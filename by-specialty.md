@@ -19,6 +19,7 @@
 - [Ventilator Mode Chart (pdf)](pdfs/Ventilator%20Mode%20Chart.pdf)
 - [Vent Basics](https://ventbasics.com/)
 - [ICU Bootcamp (Youtube)](https://www.youtube.com/playlist?list=PLRGsEja6ulHa7V962dgZs_Kifgc4KB5dG)
+- [EMCrit Acid-Base and the Strong Ion Difference](pdfs/EMCrit%20Acid%20Base%20and%20Strong%20Ion%20Difference.pdf)
 
 
 ## Ears, Nose, Throat; Densitry
