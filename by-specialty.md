@@ -51,6 +51,7 @@
 
 ## Neurology
 - [Stroke Algorithm](img/Stroke%20Algorithm.jpg)
+- [American Spinal Injury Association Classification of Spinal Injury Worksheet](pdfs/American%20Spinal%20Injury%20Association%20Injury%20Worksheet.pdf)
 - [Drugs that can exacerbate Myasthenia Gravis](pdfs/papers/Drugs%20that%20Aggravate%20Myasthenia%20Gravis.pdf)
 
 ## Obstetrics & Gynecology
