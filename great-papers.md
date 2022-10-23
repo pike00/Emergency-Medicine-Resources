@@ -4,6 +4,9 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 
 ## Emergency Medicine
 - [ABEM Reading Lists](https://www.abem.org/public/stay-certified/lifelong-learning-and-self-assessment-(lls)/reading-lists/archived-llsa-reading-lists)
+- [Things We Do For No Reason: Treating Asymptomatic Fevers](https://shmpublications.onlinelibrary.wiley.com/doi/full/10.12788/jhm.3433)
+	- "Only treat infected febrile patients with antipyretic medications for fever-related symptoms (headache, chills, or body aches or, in pediatric patients, irritability, malaise, or poor oral intake)."
+	- "In sleeping, asymptomatic, or minimally symptomatic hospitalized patients, the risks of administering antipyretic medications clearly outweigh the benefits."
 
 ## Critical Care Medicine
 
