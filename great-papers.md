@@ -17,6 +17,7 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 	- If ΔAG < ΔHCO3 → There is another process causing acidosis outside of the HAGMA process → Combined HAGMA + NAGMA
 	- If ΔAG > ΔHCO3 → There is another process causing **more** base that would be expected → Combined HAGMA + Metabolic *Alkalosis*
 	- Fun Fact: You don't even need [HCO3] to calculate it: Delta Gap = Na - Cl - 36
+- [The Fifth Vital Sign? Nurse worry predicts inpatient deterioration within 24 hours](pdfs/papers/The%20Fifth%20Vital%20Sign%20Nurse%20Worry%20Predicts%20Deterioration.pdf)
 
 ## Endocrinology
 
@@ -31,7 +32,7 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 
 ## Neurology
 
-## Ophtamology
+## Ophthamology
 
 - [Managing Patients with Acute Visual Loss (2022)](pdfs/papers/Managing%20Patients%20with%20Acute%20Visual%20Loss.pdf)
 
