@@ -79,6 +79,7 @@
 - [Acute Pain Management in a patient on chronic buprenorphine (IBCC)](https://emcrit.org/ibcc/buprenorphine/#acute_pain_management_in_a_patient_on_chronic_buprenorphine)
 
 ## Toxicology
+- [Poisoning and Drug Overdose (8th)](http://proxy.library.jhu.edu/login?qurl=http%3A%2F%2Faccessmedicine.mhmedical.com%2Fbook.aspx%3Fbookid%3D3195)
 - [EXTRIP: Extracorporeal Treatments in Poisoning Workshop Recommendations](https://www.extrip-workgroup.org/recommendations)
 
 ## Radiology
