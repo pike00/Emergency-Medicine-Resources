@@ -7,11 +7,11 @@
 
 
 ## Electrolyte Repletion
-- [Overview Chart](img/Electrolytes/Electrolyte%20Management%20Chart.jpg)
-- [Hypokalemia](img/Electrolytes/hypokalemia.png) -> Also replete Mg!
-- [Hypomagnesemia](img/Electrolytes/hypomagnesemia.png)
-- [Hypophosphatemia](img/Electrolytes/hypophsphatemia.png) ([Components of Phosphate Repletion Products](img/Electrolytes/phosphate%20repletion%20components.png))
-- [Hypocalcemia](img/Electrolytes/hypocalcemia.png)
+- [Overview Chart](Electrolytes/Electrolyte%20Management%20Chart.jpg)
+- [Hypokalemia](Electrolytes/hypokalemia.png) -> Also replete Mg!
+- [Hypomagnesemia](Electrolytes/hypomagnesemia.png)
+- [Hypophosphatemia](Electrolytes/hypophsphatemia.png) ([Components of Phosphate Repletion Products](Electrolytes/phosphate%20repletion%20components.png))
+- [Hypocalcemia](Electrolytes/hypocalcemia.png)
 
 
 ## Benzodiazepine Oral Equivalence [Reference](https://foamed.ebmedicine.net/rapid-reference/benzodiazepine-oral-equivalence/)
