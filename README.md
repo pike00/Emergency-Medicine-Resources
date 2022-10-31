@@ -2,6 +2,7 @@
 
 - Drug Dosing
 	- [Intubation](drugs/intubation.md)
+	- [Pulseless Arrest](drugs/pulseless-arrest.md)
 	- [Adult (70kg)](drugs/adult_70.md)
 - [Drug References](drugs/reference.md)
 - [Resources by Specialty](by-specialty.md)

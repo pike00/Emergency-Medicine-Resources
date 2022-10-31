@@ -10,6 +10,7 @@
 ## Rapid Sequence Intubation
 
 ### Sedatives
+
 | Medication | Dose                              |                     |
 |------------|-----------------------------------|---------------------|
 | Etomidate  | 0.3 mg/kg IV Push over 30 seconds | Onset in 30 seconds |
