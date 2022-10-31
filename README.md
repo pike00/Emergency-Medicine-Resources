@@ -11,7 +11,6 @@
 
 # High-Yield Websites
 
-- [WikEM](https://wikem.org/)
 - [Dynamedex](http://proxy.library.jhu.edu/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s3555472&groupid=main&profile=dmx)
 - [EM:RAP CorePendium](https://www.emrap.org/corependium/)
 - [UpToDate](http://proxy.library.jhu.edu/login?url=https://www.uptodate.com/contents/search)
