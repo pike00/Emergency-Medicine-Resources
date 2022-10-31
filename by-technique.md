@@ -1,5 +1,9 @@
 # Technique
 
+## Procedure Textbooks
+
+- [Reichman's Emergency Medicine Procedures (3rd)](http://proxy.library.jhu.edu/login?qurl=https%3A%2F%2Faccessemergencymedicine.mhmedical.com%2Fbook.aspx%3Fbookid%3D2498)
+
 ## Ultrasound
 
 - [5 minute sono Ultrasound Reference (PDF)](pdfs/Ultrasound%20Basic%20Reference%20Values.pdf)
