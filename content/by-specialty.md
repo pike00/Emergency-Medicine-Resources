@@ -21,7 +21,7 @@ weight: 20
 - [Stanford Emergency Manual](/pdfs/Stanford%20Emergency%20Manual.pdf)
 - [Shock Index Calculator (MDCalc)](https://www.mdcalc.com/calc/1316/shock-index)
 - [ARDSNet Protocol](/pdfs/ARDSnet%20Protocol.pdf)
-- [EMCrit Acid Base](/pdfs/EMCrit%20Acid%20Based%20Sheet.pdf)
+- [EMCrit Acid Base](/pdfs/EMCrit%20Acid%20Based%20Sheet.pdf), [The Strong Ion Difference](https://litfl.com/strong-ion-difference/)
 - [Ventilator Mode Chart (pdf)](/pdfs/Ventilator%20Mode%20Chart.pdf)
 - [Vent Basics](https://ventbasics.com/)
 - [ICU Bootcamp (Youtube)](https://www.youtube.com/playlist?list=PLRGsEja6ulHa7V962dgZs_Kifgc4KB5dG)
