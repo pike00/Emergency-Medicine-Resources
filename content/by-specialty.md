@@ -46,6 +46,10 @@ weight: 20
 ## Laboratory Medicine
 - [Labpedia](https://labpedia.net/)
 
+
+## Nephrology
+- [Visualizing Hypotonic Hyponatremia](/img/Visualizing%20Hypotonic%20Hyponatremia.jpg)
+
 ## Neurology
 - [Stroke Algorithm](/img/Stroke%20Algorithm.jpg)
 - [American Spinal Injury Association Classification of Spinal Injury Worksheet](/pdfs/American%20Spinal%20Injury%20Association%20Injury%20Worksheet.pdf)
