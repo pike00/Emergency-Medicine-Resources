@@ -45,7 +45,13 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 - [Why I've Lost Faith in p values (2018, Steve Luck)](https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values), and [Part 2](https://lucklab.ucdavis.edu/blog/2018/4/28/why-ive-lost-faith-in-p-values-part-2)
 	- "P values do not represent the probability of a Type I error in a given experiment"
 - [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations (2016)](/pdfs/papers/Statistical%20tests,%20P%20values,%20confidence%20intervals,%20and%20power.pdf)
-	
+- [The Difference Between Significant and Not Significant is not Itself Statistically Significant (2006, Gelman & Stern)](/pdfs/The%20Difference%20Between%20Significant%20and%20Not%20Significant%20is%20not%20Itself%20Statistically%20Significant.pdf)
+- [Reference Collection to push back against "Common Statistical Myths"](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787/1)
+- [Leaf Plot (Pre-test v post-test probability)](https://lmsaxhaug.shinyapps.io/Leaf_App/)
+- [The Fragility Index](https://first10em.com/ebm/fragility-index/)
+	- "It is a powerful tool, because it gives you a sense of how easily random chance could have changed the results of a trial"
+- [Why Most Published Research Findings Are False (2005)](/pdfs/Why%20Most%20Published%20Research%20Findings%20Are%20False.pdf)
+	- "Simulations show that for most study designs and settings, it is more likely for a research claim to be false than true"
 
 # Other Blogs
 
