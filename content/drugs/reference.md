@@ -3,15 +3,11 @@
 
 ## Local Anesthestic
 
-### [Toxicity](local_anesthetic_toxicity.md)
+### [Toxicity](local_anesthetic_toxicity)
 
 
-## Electrolyte Repletion
-- [Overview Chart](Electrolytes/Electrolyte%20Management%20Chart.jpg)
-- [Hypokalemia](Electrolytes/hypokalemia.png) -> Also replete Mg!
-- [Hypomagnesemia](Electrolytes/hypomagnesemia.png)
-- [Hypophosphatemia](Electrolytes/hypophsphatemia.png) ([Components of Phosphate Repletion Products](Electrolytes/phosphate%20repletion%20components.png))
-- [Hypocalcemia](Electrolytes/hypocalcemia.png)
+## [Electrolyte Repletion](/electrolytes)
+
 
 
 ## Benzodiazepine Oral Equivalence [Reference](https://foamed.ebmedicine.net/rapid-reference/benzodiazepine-oral-equivalence/)

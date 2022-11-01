@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'EM Resources'
+theme = "hugo-book"
+
+enableGitInfo = true
