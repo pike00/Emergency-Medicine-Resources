@@ -80,6 +80,7 @@ weight: 20
 
 ## Toxicology
 - [Poisoning and Drug Overdose (8th)](http://proxy.library.jhu.edu/login?qurl=http%3A%2F%2Faccessmedicine.mhmedical.com%2Fbook.aspx%3Fbookid%3D3195)
+- [Goldfrank's Toxicologic Emergencies (11th)](http://proxy.library.jhu.edu/login?qurl=https%3A%2F%2Faccessemergencymedicine.mhmedical.com%2Fbook.aspx%3FbookID%3D2569)
 - [EXTRIP: Extracorporeal Treatments in Poisoning Workshop Recommendations](https://www.extrip-workgroup.org/recommendations)
 
 ## Radiology
