@@ -35,6 +35,7 @@ weight: 0
 - [Core EM](https://coreem.net/)
 - [Life in the Fast Lane (LITFL)](https://litfl.com/)
 - [Academic Life in EM (AliEM)](https://www.aliem.com/)
+- [AliEM Cards](https://aliemcards.com/cards/benzodiazepine-and-barbiturate-comparison/)
 - [AliEM Bridge to EM (MS → Intern)](https://www.aliem.com/bridge-to-em/)
 - [ICU OnePager](https://onepagericu.com/)
 - [Epocrates](https://www.epocrates.com/sessionManager.do?type=rxweb&referurl=/online.do&refernext=https://online.epocrates.com/rxmain.jsp)
