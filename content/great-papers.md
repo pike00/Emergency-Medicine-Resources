@@ -7,6 +7,7 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 - [Things We Do For No Reason: Treating Asymptomatic Fevers](/pdfs/papers/Things%20we%20do%20for%20no%20reason%20Treatment%20of%20infection-related%20fever%20in%20hospitalized%20patients.pdf)
 	- "Only treat infected febrile patients with antipyretic medications for fever-related symptoms (headache, chills, or body aches or, in pediatric patients, irritability, malaise, or poor oral intake)."
 	- "In sleeping, asymptomatic, or minimally symptomatic hospitalized patients, the risks of administering antipyretic medications clearly outweigh the benefits."
+- [The OMI Manifesto](/pdfs/papers/The%20OMI%20Manifesto%20PDF%203.29.18.pdf), commentary by [RebelEM](https://rebelem.com/omi-nomi-time-for-a-paradigm-shift/), [litfl.org](https://litfl.com/omi-replacing-the-stemi-misnomer/)
 
 ## Critical Care Medicine
 
