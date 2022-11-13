@@ -7,6 +7,7 @@ weight: 0
 
 - Drug Dosing
 	- [Intubation](drugs/intubation)
+	- [Sedation](drugs/sedation)
 	- [Vasopressors](drugs/vasopressors)
 	- [Pulseless Arrest](drugs/pulseless-arrest)
 	- [Adult (70kg)](drugs/adult_70)
