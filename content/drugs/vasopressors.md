@@ -9,7 +9,7 @@
 
 ### Push Dose
 
-[EMCrit Page on Push Dose Pressors](https://emcrit.org/emcrit/bolus-dose-pressors/)
+[Preparing Push Dose Pressor Syringes](/pdfs/push-dose-pressors.pdf), [EMCrit Page on Push Dose Pressors](https://emcrit.org/emcrit/bolus-dose-pressors/)
 
 - Phenylephrine 50-200 mcg IVP q1-5 minutes
 	- Concentration of 100mcg/mL: 0.5 - 2.0 mL
