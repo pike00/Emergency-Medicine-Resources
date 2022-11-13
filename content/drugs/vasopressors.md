@@ -9,7 +9,17 @@
 
 ### Push Dose
 
-- Phenylephrine 50-200 mcg IVP q2-5 minutes
+[EMCrit Page on Push Dose Pressors](https://emcrit.org/emcrit/bolus-dose-pressors/)
+
+- Phenylephrine 50-200 mcg IVP q1-5 minutes
+	- Concentration of 100mcg/mL: 0.5 - 2.0 mL
+	- To Prepare: Dilute 10mg Phenylephrine in 100mL of NS -> 100 mcg/mL
+- Epinephrine 5-20 mcg IVP q1-5 minutes
+	- Concentration of 10mcg/mL: 0.5 - 2.0 mL
+	- To Prepare: Dilute 1mL Cardiac Epinephrine (100mcg/mL = 1:10,000) 10:1 in NS -> makes 10mL of 10 mcg/mL
+	- *Same concentration as Lidocaine with Epinephrine, so infiltration isn't a huge risk*
+	- **Never give an ampule of cardiac epinephrine to a patient with a pulse**
+- Ephedrine: β1 + indirect α effects, Lasts 1 hour
 
 ### Infusion
 
