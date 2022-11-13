@@ -7,8 +7,9 @@ weight: 0
 
 - Drug Dosing
 	- [Intubation](drugs/intubation)
-	- [Pulseless Arrest](drugs/pulseless-arrest.md)
-	- [Adult (70kg)](drugs/adult_70.md)
+	- [Vasopressors](drugs/vasopressors)
+	- [Pulseless Arrest](drugs/pulseless-arrest)
+	- [Adult (70kg)](drugs/adult_70)
 - ACLS Algorithms
 	- [Cardiac Arrest](acls/cardiac_arrest.jpg)
 	- [Bradycardia](acls/bradycardia_algorithm.pdf)
