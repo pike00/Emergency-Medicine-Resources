@@ -5,6 +5,8 @@
 | Medication | Dose |
 |------------|-------------|
 | Lidocaine  (Elevated ICP, give 3 minutes before RSI) | 1.5 mg/kg IV over 1m      |
+| Lidocaine (Before Propofol) | 0.5 mg/kg 1 minute before, with tourniquet |
+| Glycopyrrolate (To dry mucosal membranes) | 0.005 mg/kg  (Typically ~0.4 mg) |
 
 ## Rapid Sequence Intubation
 
