@@ -29,3 +29,15 @@
 | Succinylcholine IM 	| 3-4 mg/kg IM (Max 150mg) 	| 1-4 minutes 	|
 | Vecuronium         	| 0.1 mg/kg IV        	| 2 minute (duration 1h)|
 | Vecuronium         	| 0.2 mg/kg IV        	| 1 minute ("Double dose" has faster onset, but longer duration ~2h)|
+
+
+#### Reversal Agents
+
+| Medication | Dose | Reverses which paralytics? | 
+| --- | --- | --- |
+| Sugammadex | 2-4 mg/kg | Rocuronium, Vecuronium |
+| | 16 mg/kg|Can't Intubate, Can't Ventilate |
+| Neostigmine + Glycopyrrolate[^1] | 50 mcg/kg (N) + 10 mcg/kg (G) | Rocuronium, Vecuronium |
+
+
+[^1]: Neostigmine is an Intermediate speed of onset Acetylcholinesterase inhibitor that does not cross the BBB that acts to increase Acetylcholine in the Neuromuscular Junction; this can overcome competitive inhibition by rocuronium. Always give Neostigmine with Glycopyrrolate (Anticholinergic) because AChEi can have parasympathatic side effects (Bradycardia, GI stimulation, Bronchospasm). Dose Glycopyrrolate at 1/5 the dose of Neostigmine. 
