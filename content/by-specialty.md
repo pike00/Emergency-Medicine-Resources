@@ -68,7 +68,7 @@ weight: 20
 - [Interpretation of Arthrocentesis](/img/Interpretation%20of%20Arthrocentesis.png) ([EBMedicine Revieiw on Acute Joint Pain](https://www.ebmedicine.net/topics/musculoskeletal/joint-pain), 1/2022)
 
 ## Pediatrics
-- [CHOP Pathways](https://www.chop.edu/pathways/)
+- [CHOP Pathways](https://www.chop.edu/pathways-library/emergency)
 - [Skin Deep Dermatology](https://dftbskindeep.com/)
 - [Don't Forget the Bubbles Quick References](https://dontforgetthebubbles.com/quick-reference/)
 - [Harriet Lane Handbook](https://www.unboundmedicine.com/harrietlane/)
