@@ -41,6 +41,7 @@
 	- [Principles](https://www.aliem.com/splinter-series-splint-principles-101/)
 	- [Application](https://www.aliem.com/splinter-series-splint-application-principles-102/)
 	- [Complications + Discharge Care](https://www.aliem.com/splinter-series-103/)
+	- [Common ED Splint Techniques](https://www.aliem.com/splinter-series-104/)
 
 
 ## Procedural Sedation
@@ -49,3 +50,24 @@
 
 
 ## Signouts
+
+Using the IPASS Framework
+
+- **I**llness Severity
+	- Illness Severity: Stable v Unstable; Watch)
+	- Working Diagnosis
+	- Disposition
+- **P**atient Summary
+	- Medical History
+	- Pertinent History
+	- Pertinent Exam
+	- Significant Labs + Imaging Results
+- **A**ction List (By Problem)
+	- Active Issues
+	- Interventions
+	- Outcomes: Vital signs, new lab values
+- **S**ituational Awareness & Contingency Plan
+	- Current Plan
+	- Active Issues that require follow up
+	- Contingency Planning: e.g. "If BP does not respond to appropriate IV Fluids, start pressors"
+- **S**ynthesis by receiver
