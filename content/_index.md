@@ -11,10 +11,7 @@ weight: 0
 	- [Vasopressors](drugs/vasopressors)
 	- [Pulseless Arrest](drugs/pulseless-arrest)
 	- [Adult (70kg)](drugs/adult_70)
-- ACLS Algorithms
-	- [Cardiac Arrest](acls/cardiac_arrest.jpg)
-	- [Bradycardia](acls/bradycardia_algorithm.pdf)
-	- [Tachycardia](acls/tachycardia_algorithm.pdf)
+- ACLS: [Cardiac Arrest](acls/cardiac_arrest.pdf) → [Post-Arrest](acls/post_arrest.pdf); [Bradycardia](acls/bradycardia.pdf); [Tachycardia](acls/tachycardia.pdf)
 - [Drug References](drugs/reference)
 - [Resources by Specialty](by-specialty)
 - [Antibiotics](/antibiotics)
