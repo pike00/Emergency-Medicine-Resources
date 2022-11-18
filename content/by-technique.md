@@ -8,12 +8,14 @@
 
 - [5 minute sono Ultrasound Reference (PDF)](/pdfs/Ultrasound%20Basic%20Reference%20Values.pdf)
 - [ACEP Sonoguide](https://www.acep.org/sonoguide/basic/)
-- [The Pocus Atlas](https://www.thepocusatlas.com/)
+- [The Pocus Atlas](https://www.thepocusatlas.com/), [The Pocus Atlas Evidence Atlas](https://www.thepocusatlas.com/ea-home)
 - [Core Ultrasound](https://www.coreultrasound.com/)
 - [Highland EM Ultrasound Guided Procedures](https://highlandultrasound.com/)
 - [Ultrasound of the Week](https://www.coreultrasound.com/category/ultrasound-of-the-week/)
 - [Clinical Echocardiogram Book](https://ecgwaves.com/course/clinical-echocardiography/)
 - [Ultrasound Measurements Pocket Card (PDF)](/pdfs/Ultrasound%20Measurements%20Pocketcard%204x6.pdf)
+- [Ultrasound G.E.L Evidence from the Literature](https://www.ultrasoundgel.org/)
+
 
 
 ## ECG
