@@ -9,6 +9,11 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 	- "In sleeping, asymptomatic, or minimally symptomatic hospitalized patients, the risks of administering antipyretic medications clearly outweigh the benefits."
 - [The OMI Manifesto](/pdfs/papers/The%20OMI%20Manifesto%20PDF%203.29.18.pdf), commentary by [RebelEM](https://rebelem.com/omi-nomi-time-for-a-paradigm-shift/), [litfl.org](https://litfl.com/omi-replacing-the-stemi-misnomer/)
 - [Procedural Sedation and Analgesia in the Emergency Department (June 2022, EB Medicine)](/pdfs/papers/Procedural%20Sedation%20and%20Analgesia%20in%20the%20Emergency%20Department.pdf)
+- [Diagnostic Accuracy of Early Right Ventricular Dysfunction Markers in Normotensive Emergency Department Patients with ACute Pulmonary Embolism (2016)](/pdfs/papers/Diagnostic%20Accuracy%20of%20Right%20Ventricular%20Dysfunction%20Markers%20in%20Normotensive%20Emergency%20Department%20patients%20with%20acute%20PE.pdf)
+	- Echo for Right Heart Dysfunction has +LR of 90, -LR of 0. 
+		- Right Ventricle >= Left Ventricle
+		- TAPSE < 10 mm
+		- Flattening of ventricle towards left ventricle
 
 ## Critical Care Medicine
 
