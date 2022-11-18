@@ -41,4 +41,11 @@
 	- [Principles](https://www.aliem.com/splinter-series-splint-principles-101/)
 	- [Application](https://www.aliem.com/splinter-series-splint-application-principles-102/)
 	- [Complications + Discharge Care](https://www.aliem.com/splinter-series-103/)
-	- [Common ED Splint Techniques](https://www.aliem.com/splinter-series-104/)
+
+
+## Procedural Sedation
+
+- [Pre-procedure Checklist](/pdfs/procedural_sedation_checklist.pdf)
+
+
+## Signouts
