@@ -8,6 +8,7 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 	- "Only treat infected febrile patients with antipyretic medications for fever-related symptoms (headache, chills, or body aches or, in pediatric patients, irritability, malaise, or poor oral intake)."
 	- "In sleeping, asymptomatic, or minimally symptomatic hospitalized patients, the risks of administering antipyretic medications clearly outweigh the benefits."
 - [The OMI Manifesto](/pdfs/papers/The%20OMI%20Manifesto%20PDF%203.29.18.pdf), commentary by [RebelEM](https://rebelem.com/omi-nomi-time-for-a-paradigm-shift/), [litfl.org](https://litfl.com/omi-replacing-the-stemi-misnomer/)
+- [Procedural Sedation and Analgesia in the Emergency Department (June 2022, EB Medicine)](/pdfs/papers/Procedural%20Sedation%20and%20Analgesia%20in%20the%20Emergency%20Department.pdf)
 
 ## Critical Care Medicine
 
