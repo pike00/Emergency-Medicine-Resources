@@ -9,8 +9,6 @@ weight: 0
 	- [Intubation](drugs/intubation)
 	- [Sedation](drugs/sedation)
 	- [Vasopressors](drugs/vasopressors)
-	- [Pulseless Arrest](drugs/pulseless-arrest)
-	- [Adult (70kg)](drugs/adult_70)
 - ACLS: [Cardiac Arrest](acls/cardiac_arrest.pdf) → [Post-Arrest](acls/post_arrest.pdf); [Bradycardia](acls/bradycardia.pdf); [Tachycardia](acls/tachycardia.pdf)
 - [Drug References](drugs/reference)
 - [Resources by Specialty](by-specialty)
