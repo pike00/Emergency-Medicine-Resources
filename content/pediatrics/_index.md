@@ -1,5 +1,8 @@
 # Pediatrics
 
+## Resuscitation
+
+- [Neonatal](/pediatrics/neonatal)
 ## Useful Resources
 
 - [CHOP Pathways](https://www.chop.edu/pathways-library/emergency)
