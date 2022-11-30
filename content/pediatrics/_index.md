@@ -39,5 +39,6 @@
 - Febrile Infants: [CHOP Pathway](https://www.chop.edu/clinical-pathway/febrile-infant-emergent-evaluation-clinical-pathway), [MDCalc Step-By-Step](https://www.mdcalc.com/calc/1801/step-step-approach-febrile-infants)
 
 
+## [Milestones](/pediatrics/milestones)
 
 [^1]: Gestational age in weeks approximates normal MAP
