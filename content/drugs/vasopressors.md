@@ -7,19 +7,6 @@
 
 ## Dosing
 
-### Push Dose
-
-[Preparing Push Dose Pressor Syringes](/pdfs/push-dose-pressors.pdf), [EMCrit Page on Push Dose Pressors](https://emcrit.org/emcrit/bolus-dose-pressors/)
-
-- Phenylephrine 50-200 mcg IVP q1-5 minutes
-	- Concentration of 100mcg/mL: 0.5 - 2.0 mL
-	- To Prepare: Dilute 10mg Phenylephrine in 100mL of NS -> 100 mcg/mL
-- Epinephrine 5-20 mcg IVP q1-5 minutes
-	- Concentration of 10mcg/mL: 0.5 - 2.0 mL
-	- To Prepare: Dilute 1mL Cardiac Epinephrine (100mcg/mL = 1:10,000) 10:1 in NS -> makes 10mL of 10 mcg/mL
-	- *Same concentration as Lidocaine with Epinephrine, so infiltration isn't a huge risk*
-	- **Never give an ampule of cardiac epinephrine to a patient with a pulse**
-- Ephedrine: β1 + indirect α effects, Lasts 1 hour
 
 ### Infusion
 
@@ -33,3 +20,18 @@
 | Phenylephrine  	| 0.5-4 mcg/kg/min        	|
 | Vasopressin    	| 0.04 U/min              	|
 | Dobutamine     	| 2-20 mcg/kg/min         	|
+
+### Push Dose
+
+[Preparing Push Dose Pressor Syringes](/pdfs/push-dose-pressors.pdf), [EMCrit Page on Push Dose Pressors](https://emcrit.org/emcrit/bolus-dose-pressors/)
+
+- Phenylephrine 50-200 mcg [For 100 mcg/mL = 0.5 - 2.0 mL]
+	- To Prepare 100mcg/mL: 10mg Phenylephrine + 100mL of NS
+- Epinephrine 5-20 mcg [For 10 mcg/mL = 0.5 - 2.0mL][^1]
+	- **Never give an ampule of cardiac epinephrine to a patient with a pulse**
+	- To Prepare 10mcg/mL: 1mL Cardiac Epi (100mcg/mL = 1:10,000) + 9mL NS
+- Ephedrine: β1 + indirect α effects, Lasts 1 hour
+
+
+
+[^1]:Same concentration as Lidocaine with Epinephrine, so infiltration isn't a huge risk
