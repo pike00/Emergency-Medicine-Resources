@@ -3,6 +3,9 @@
 ## Resuscitation
 
 - [Neonatal](/pediatrics/neonatal)
+- [Pediatrics](/pediatrics/pediatric_resuscitation)
+
+
 ## Useful Resources
 
 - [CHOP Pathways](https://www.chop.edu/pathways-library/emergency)
