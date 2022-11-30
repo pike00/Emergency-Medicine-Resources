@@ -31,6 +31,8 @@
 - 1m-1y: 70
 - 2-10y: 70 + age + age
 
+## [Equipment](/pediatrics/equipment)
+
 ## Pathways & Calculators
 
 - [UTI Calculator - Pittsburgh](https://uticalc.pitt.edu/)
