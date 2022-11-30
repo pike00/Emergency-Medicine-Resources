@@ -18,6 +18,8 @@ weight: 0
 - [Resources by Technique](by-technique)
 - [Great Papers](great-papers)
 
+# [Pediatrics](/pediatrics)
+
 # High-Yield Websites
 
 - [Dynamedex](http://proxy.library.jhu.edu/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s3555472&groupid=main&profile=dmx)

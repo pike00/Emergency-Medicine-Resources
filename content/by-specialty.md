@@ -68,14 +68,6 @@ weight: 20
 - [Northwestern Orthopedic Teaching](https://www.ortho-teaching.feinberg.northwestern.edu/)
 - [Interpretation of Arthrocentesis](/img/Interpretation%20of%20Arthrocentesis.png) ([EBMedicine Revieiw on Acute Joint Pain](https://www.ebmedicine.net/topics/musculoskeletal/joint-pain), 1/2022)
 
-## Pediatrics
-- [CHOP Pathways](https://www.chop.edu/pathways-library/emergency)
-- [Skin Deep Dermatology](https://dftbskindeep.com/)
-- [Don't Forget the Bubbles Quick References](https://dontforgetthebubbles.com/quick-reference/)
-- [Harriet Lane Handbook](https://www.unboundmedicine.com/harrietlane/)
-- [UTI Calculator](https://uticalc.pitt.edu/)
-- [PECARN Rule (Low Risk Febrile Infants 29-60 days old)](https://www.mdcalc.com/pecarn-rule-low-risk-febrile-infants-29-60-days-old)
-
 ## Psychiatry
 - [Psychopharmacopeia](https://psychopharmacopeia.com/index.php/)
 - [Buprenorphine Use in the Emergency Department Tool (BUPE; ACEP)](https://www.acep.org/patient-care/bupe/)
