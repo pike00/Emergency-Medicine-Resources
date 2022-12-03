@@ -3,6 +3,8 @@ languageCode: en-us
 title: EM Resources
 theme: PaperMod
 enableGitInfo: true
+staticDir:
+  - static
 
 Copyright: © C. William Pike, MD
 
