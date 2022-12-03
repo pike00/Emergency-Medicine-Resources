@@ -1,6 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'EM Resources'
-theme = "PaperMod"
-
-enableGitInfo = true

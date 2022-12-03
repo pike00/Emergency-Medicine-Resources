@@ -1,0 +1,30 @@
+baseURL: 'http://pikemd.com/'
+languageCode: en-us
+title: EM Resources
+theme: PaperMod
+enableGitInfo: true
+
+Copyright: © C. William Pike, MD
+
+googleAnalytics: G-RJXBZM480J
+
+params: 
+  env: production 
+  author: C. William Pike, MD
+  ShowBreadCrumbs: true
+  homeInfoParams:
+    Title: Emergency Medicine Resources
+    Content: Welcome to my Home Page for On shift resources, clinical teaching, and more
+
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
