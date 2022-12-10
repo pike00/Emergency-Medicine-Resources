@@ -1,9 +1,8 @@
 ---
-title: By Specialty
-weight: 20
+title: Quick References By Specialty
+# TocOpen: true
+showToc: true
 ---
-
-# Quick References By Specialty
 
 ## Anethesiology
 - [PAMI Pain Management and Dosing Guide](/pdfs/PAMI%20Pain%20Management%20Guide.pdf)

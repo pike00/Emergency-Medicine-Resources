@@ -1,19 +1,21 @@
 ---
-title: Antibiotics
+title: Choosing the Right Antibiotic
 ---
+---
+## Antibiotic Math
+- Cefepime = Ceftriaxone + Pseudomonal coverage
+- Piperacillin/Tazobactam = Cefepime + Anaerobic Coverage
+- Meropenem = Piperacillin/Tazobactam + ESBL Coverage
+- Ertapenem = Meropenem - Pseudomonal Coverage
 
-# Choosing the Right Antibiotic
+## Graphs
 
-- Antibiotic Math
-	- Cefepime = Ceftriaxone + Pseudomonal coverage
-	- Piperacillin/Tazobactam = Cefepime + Anaerobic Coverage
-	- Meropenem = Piperacillin/Tazobactam + ESBL Coverage
-	- Ertapenem = Meropenem - Pseudomonal Coverage
+{{< figure src="/img/Antibiotic%20Coverage%20Graph%201.png" >}}
+{{< figure src="/img/Coverage Graph 1.png" >}}
 
-
-![](/img/Antibiotic%20Coverage%20Graph%201.png)
-![](/img/Coverage%20Graph%201.png)
 ![](/img/antibiotic%20coverage%20graph%202.jpg)
+
+## Useful Links
 
 - [tl;dr Pharmacy](/pdfs/tldr_antibiotics_cheatsheet.pdf)
 - [Antibiotic Pocket Guide](/pdfs/Antibiotic%20Pocket%20Guide.pdf)

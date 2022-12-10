@@ -1,4 +1,9 @@
-# Intubation
+---
+title: "Intubation Drugs"
+TocOpen: true
+showToc: true
+
+---
 
 ## Pre-treatment
 
