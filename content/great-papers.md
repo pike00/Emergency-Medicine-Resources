@@ -14,6 +14,11 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 		- Right Ventricle >= Left Ventricle
 		- TAPSE < 10 mm
 		- Flattening of ventricle towards left ventricle
+- [Successful Hospitalization of patients with no discernible pathology (parody)](pdfs/papers/Successful%20Hospitalization%20of%20Patients%20with%20No%20Discernible%20Pathology.pdf)
+	- Attempt admission if:
+		- Family Member + Suice to nursing staff ratio > 1.0
+		- Age + BUN > 100
+		- Inpatient consultant is being unreasonable
 
 ## Critical Care Medicine
 
