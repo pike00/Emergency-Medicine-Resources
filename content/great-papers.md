@@ -19,6 +19,9 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 		- Family Member + Suice to nursing staff ratio > 1.0
 		- Age + BUN > 100
 		- Inpatient consultant is being unreasonable
+- [A Simplified and Structured Teaching Tool for the Evaluation and Management of Pulseless Electrical Activity (2014)](pdfs/papers/A%20Simplified%20and%20Structured%20Teaching%20for%20PEA.pdf)
+	- Narrow Complex PEA → POCUS for structural causes (Tamponade, Pneumothorax, Hyperinflation, Pulmonary Embolism)
+	- Wide Complex PEA → Give Na Bicarbonate, Calcium Gluconate or Chloride (Hyperkalemia, Na Blocker Toxicity)
 
 ## Critical Care Medicine
 
