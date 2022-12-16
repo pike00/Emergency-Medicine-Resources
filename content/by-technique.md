@@ -52,6 +52,10 @@ showToc: true
 
 - [Pre-procedure Checklist](/pdfs/procedural_sedation_checklist.pdf)
 
+## Transvenous Pacing
+
+- [High Risk Low Frequency: Transvenous Pacer Course](https://romron.wixsite.com/romron/post/high-risk-low-frequency-presents-the-transvenous-pacer-course)
+
 
 ## Signouts
 
