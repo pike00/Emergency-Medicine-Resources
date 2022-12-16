@@ -81,3 +81,8 @@ showToc: true
 - [UVA Introduction to Radiology Series](https://introductiontoradiology.net/)	
 - [ACR Appropriateness Criteria](https://acsearch.acr.org/list)
 - [CREATE Radiology Teaching](https://www.create-rad.com/)
+- [Contrast Administration Process Guideline](https://hpo.johnshopkins.edu/d/vj325TVT)
+	- [Premedication Protocol](https://hpo.johnshopkins.edu/d/8S21E4Ck)
+	- Renal Function Screening Diagram: [Iodine](https://hpo.johnshopkins.edu/d/hHtJ5BYu), [Gadolinium](https://hpo.johnshopkins.edu/d/Z08jpiou)
+	- [Labs Needed prior to CT or MRI](https://hpo.johnshopkins.edu/d/gtZppYSJ)
+	- Contrast Reactions: [Adult](https://hpo.johnshopkins.edu/d/ByRT0kAZ), [Pediatrics](https://hpo.johnshopkins.edu/d/0WkGU7AZ)
