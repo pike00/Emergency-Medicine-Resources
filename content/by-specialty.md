@@ -9,7 +9,6 @@ showToc: true
 - [AliEM Pain Medication Options in Adult Card](/pdfs/Initial%20Pain%20Medication%20Options%20in%20Adults.pdf)
 - [EMRA Pain Management Guide](https://www.emra.org/books/pain-management)
 - [Walls Manual of Emergency Airway Management (5th)](http://proxy.library.jhu.edu/login?qurl=http%3A%2F%2Fovidsp.ovid.com%2Fovidweb.cgi%3FT%3DJS%26PAGE%3Dbooktext%26NEWS%3DN%26DF%3Dbookdb%26CSC%3DY%26AN%3D01996178%2F5th_Edition%26XPATH%3D%2FPG%280%29)
-- [Capnography]
 
 ## Cardiology
 - [LVAD Complications Evaluation and Workup (pdf)](/pdfs/LVAD%20Complications.pdf)
