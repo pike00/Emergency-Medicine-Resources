@@ -5,6 +5,10 @@
 - [Neonatal](/pediatrics/neonatal)
 - [Pediatrics](/pediatrics/pediatric_resuscitation)
 
+## Drug Dosing
+
+- [Hypoglycemia - Rule of 50's](/pediatrics/hypoglycemia)
+
 
 ## Useful Resources
 
