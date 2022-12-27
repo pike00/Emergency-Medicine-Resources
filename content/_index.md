@@ -18,6 +18,10 @@ weight: 0
 
 # [Pediatrics](/pediatrics)
 
+# Billing and Coding
+- [2023 MDM Table](pdfs/Medical%20Decision%20Making%20Risk%20Table.pdf)
+- [2023 AMA E+M Guidelines](pdfs/AMA%20E+M%20Guidelines%202023.pdf)
+
 # High-Yield Websites
 
 - [Dynamedex](http://proxy.library.jhu.edu/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s3555472&groupid=main&profile=dmx)
