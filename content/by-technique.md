@@ -20,8 +20,6 @@ showToc: true
 - [Ultrasound Measurements Pocket Card (PDF)](/pdfs/Ultrasound%20Measurements%20Pocketcard%204x6.pdf)
 - [Ultrasound G.E.L Evidence from the Literature](https://www.ultrasoundgel.org/)
 
-
-
 ## ECG
 
 - [ECG Wave Maven](https://ecg.bidmc.harvard.edu/maven/displist.asp?ans=0)
@@ -29,7 +27,6 @@ showToc: true
 - [LITFL ECG Library](https://litfl.com/ecg-library/)
 - [ECG Waves.org (Paid)](https://ecgwaves.com/)
 - [The T Wave - physiologic and pathologic variants](https://ecgwaves.com/the-t-wave-physiology-variants-and-ecg-features/)
-
 
 ## Laceration Repair
 
@@ -42,11 +39,10 @@ showToc: true
 
 - [EMRA Sports Medicine Splinting Guide](/pdfs/EMRA%20Sports%20Medicine%20Splinting%20Techniques.pdf)
 - [AliEM SplintER Series](https://www.aliem.com/splinter-series/)
-	- [Principles](https://www.aliem.com/splinter-series-splint-principles-101/)
-	- [Application](https://www.aliem.com/splinter-series-splint-application-principles-102/)
-	- [Complications + Discharge Care](https://www.aliem.com/splinter-series-103/)
-	- [Common ED Splint Techniques](https://www.aliem.com/splinter-series-104/)
-
+  - [Principles](https://www.aliem.com/splinter-series-splint-principles-101/)
+  - [Application](https://www.aliem.com/splinter-series-splint-application-principles-102/)
+  - [Complications + Discharge Care](https://www.aliem.com/splinter-series-103/)
+  - [Common ED Splint Techniques](https://www.aliem.com/splinter-series-104/)
 
 ## Procedural Sedation
 
@@ -56,26 +52,25 @@ showToc: true
 
 - [High Risk Low Frequency: Transvenous Pacer Course](https://romron.wixsite.com/romron/post/high-risk-low-frequency-presents-the-transvenous-pacer-course)
 
-
 ## Signouts
 
 Using the IPASS Framework
 
 - **I**llness Severity
-	- Illness Severity: Stable v Unstable; Watch)
-	- Working Diagnosis
-	- Disposition
+  - Illness Severity: Stable v Unstable; Watch)
+  - Working Diagnosis
+  - Disposition
 - **P**atient Summary
-	- Medical History
-	- Pertinent History
-	- Pertinent Exam
-	- Significant Labs + Imaging Results
+  - Medical History
+  - Pertinent History
+  - Pertinent Exam
+  - Significant Labs + Imaging Results
 - **A**ction List (By Problem)
-	- Active Issues
-	- Interventions
-	- Outcomes: Vital signs, new lab values
+  - Active Issues
+  - Interventions
+  - Outcomes: Vital signs, new lab values
 - **S**ituational Awareness & Contingency Plan
-	- Current Plan
-	- Active Issues that require follow up
-	- Contingency Planning: e.g. "If BP does not respond to appropriate IV Fluids, start pressors"
+  - Current Plan
+  - Active Issues that require follow up
+  - Contingency Planning: e.g. "If BP does not respond to appropriate IV Fluids, start pressors"
 - **S**ynthesis by receiver
