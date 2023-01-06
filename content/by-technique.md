@@ -6,7 +6,7 @@ showToc: true
 
 ## Procedure Textbooks
 
-- [Reichman's Emergency Medicine Procedures (3rd)](http://proxy.library.jhu.edu/login?qurl=https%3A%2F%2Faccessemergencymedicine.mhmedical.com%2Fbook.aspx%3Fbookid%3D2498)
+- [Reichman's Emergency Medicine Procedures (3rd)](https://livejohnshopkins-my.sharepoint.com/:b:/r/personal/cpike2_jh_edu/Documents/Medicine/2%20Residency/Clinical%20Resources/Emergency%20Medicine/Reichman%20Emergency%20Medicine%20Procedures.pdf?csf=1&web=1&e=mJCqee)
 
 ## Ultrasound
 
