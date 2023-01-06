@@ -67,6 +67,7 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
 	- "It is a powerful tool, because it gives you a sense of how easily random chance could have changed the results of a trial"
 - [Why Most Published Research Findings Are False (2005)](/pdfs/Why%20Most%20Published%20Research%20Findings%20Are%20False.pdf)
 	- "Simulations show that for most study designs and settings, it is more likely for a research claim to be false than true"
+- [Confidence intervals rather than P values: estimation rather than hypothesis testing (Gardner, Atlman 1986)](pdfs/papers/Confidence%20intervals%20rather%20than%20P%20values.pdf)
 
 # Other Blogs
 
