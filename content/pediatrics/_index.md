@@ -15,6 +15,7 @@
 - [Skin Deep Dermatology](https://dftbskindeep.com/)
 - [Don't Forget the Bubbles Quick References](https://dontforgetthebubbles.com/quick-reference/)
 - [Harriet Lane Handbook](https://www.unboundmedicine.com/harrietlane/)
+- [Lund and Browder Chart for TBSA Estimation](pdfs/Lund_and_Browder_chart.pdf)
 
 ## Normal Vital Signs
 
