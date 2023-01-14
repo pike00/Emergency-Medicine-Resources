@@ -14,6 +14,7 @@ weight: 0
 - [Antibiotics](/antibiotics)
 - [Resources by Technique](by-technique)
 - [Great Papers](great-papers)
+- [GCS (Adult)](https://www.mdcalc.com/calc/64/glasgow-coma-scale-score-gcs); [GCS (Child)](https://www.mdcalc.com/calc/3702/pediatric-glasgow-coma-scale-pgcs)
 
 ## [Pediatrics](/pediatrics)
 
