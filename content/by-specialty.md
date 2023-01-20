@@ -67,6 +67,7 @@ showToc: true
 - [Drugs and Lactation Database (LactMed)](https://www.ncbi.nlm.nih.gov/books/NBK501922/)
 - [Infant Risk Center](https://www.infantrisk.com/infantrisk-center-resources)
 - [Perinatology](https://www.perinatology.com/)
+- [Methods of Dating Pregnancy by Ultrasound](img/Redating%20Pregnancies%20Based%20on%20US.png)[^1]
 
 ## Orthopedics
 
@@ -97,3 +98,5 @@ showToc: true
   - Renal Function Screening Diagram: [Iodine](https://hpo.johnshopkins.edu/d/hHtJ5BYu), [Gadolinium](https://hpo.johnshopkins.edu/d/Z08jpiou)
   - [Labs Needed prior to CT or MRI](https://hpo.johnshopkins.edu/d/gtZppYSJ)
   - Contrast Reactions: [Adult](https://hpo.johnshopkins.edu/d/ByRT0kAZ), [Pediatrics](https://hpo.johnshopkins.edu/d/0WkGU7AZ)
+
+[^1]: [Reference](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date)
