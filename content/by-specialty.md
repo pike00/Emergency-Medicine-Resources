@@ -63,6 +63,7 @@ showToc: true
 
 ## Obstetrics & Gynecology
 
+- [2018 JHM OB/GYN Handbook](https://livejohnshopkins-my.sharepoint.com/:b:/r/personal/cpike2_jh_edu/Documents/Medicine/2%20Residency/Clinical%20Resources/OB%20Gyn/2018%20JHM%20OB%20GYN%20Handbook.pdf?csf=1&web=1&e=PzLlQn)
 - [ObG Project](https://www.obgproject.com/)
 - [Drugs and Lactation Database (LactMed)](https://www.ncbi.nlm.nih.gov/books/NBK501922/)
 - [Infant Risk Center](https://www.infantrisk.com/infantrisk-center-resources)
