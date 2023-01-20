@@ -70,7 +70,7 @@ Here, I compiled a list of papers that I find useful for clinical medicine. Thes
   - "Simulations show that for most study designs and settings, it is more likely for a research claim to be false than true"
 - [Confidence intervals rather than P values: estimation rather than hypothesis testing (Gardner, Atlman 1986)](pdfs/papers/Confidence%20intervals%20rather%20than%20P%20values.pdf)
 
-# Other Blogs
+## Other Blogs
 
 - [The Incidental Economist](https://theincidentaleconomist.com/wordpress/)
 - [BML Student](https://www.bmj.com/student)
