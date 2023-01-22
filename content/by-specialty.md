@@ -68,7 +68,7 @@ showToc: true
 - [Drugs and Lactation Database (LactMed)](https://www.ncbi.nlm.nih.gov/books/NBK501922/)
 - [Infant Risk Center](https://www.infantrisk.com/infantrisk-center-resources)
 - [Perinatology](https://www.perinatology.com/)
-- [Methods of Dating Pregnancy by Ultrasound](img/Redating%20Pregnancies%20Based%20on%20US.png)[^1]
+- [Methods of Dating Pregnancy by Ultrasound](/img/Redating%20Pregnancies%20Based%20on%20US.png)[^1]
 
 ## Orthopedics
 
