@@ -76,6 +76,7 @@ showToc: true
 - [Northwestern Orthopedic Teaching](https://www.ortho-teaching.feinberg.northwestern.edu/)
 - [Interpretation of Arthrocentesis](/img/Interpretation%20of%20Arthrocentesis.png) ([EBMedicine Revieiw on Acute Joint Pain](https://www.ebmedicine.net/topics/musculoskeletal/joint-pain), 1/2022)
 - [Ortho Teaching (Northwestern)](https://www.ortho-teaching.feinberg.northwestern.edu/)
+- [Quick Splinting Guides](/img/quick%20splinting%20guide.jpg)
 
 ## Psychiatry
 
