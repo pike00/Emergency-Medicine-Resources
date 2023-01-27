@@ -69,6 +69,7 @@ showToc: true
 - [Infant Risk Center](https://www.infantrisk.com/infantrisk-center-resources)
 - [Perinatology](https://www.perinatology.com/)
 - [Methods of Dating Pregnancy by Ultrasound](/img/Redating%20Pregnancies%20Based%20on%20US.png)[^1]
+- [Bedsider.org (Birth Control Reference)](https://www.bedsider.org/birth-control)
 
 ## Orthopedics
 
