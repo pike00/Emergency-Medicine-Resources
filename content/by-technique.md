@@ -27,6 +27,7 @@ showToc: true
 - [LITFL ECG Library](https://litfl.com/ecg-library/)
 - [ECG Waves.org (Paid)](https://ecgwaves.com/)
 - [The T Wave - physiologic and pathologic variants](https://ecgwaves.com/the-t-wave-physiology-variants-and-ecg-features/)
+- [ECG Axis Practice](https://david-shrk.github.io/ecgaxistrainer/)
 
 ## Laceration Repair
 
