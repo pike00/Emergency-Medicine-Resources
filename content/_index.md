@@ -8,6 +8,7 @@ weight: 0
   - [Intubation](drugs/intubation)
   - [Sedation](drugs/sedation)
   - [Vasopressors](drugs/vasopressors)
+  - [Hypertension and Hypertensive Emergency](drugs/hypertension)
 - ACLS: [Cardiac Arrest](acls/cardiac_arrest.pdf) → [Post-Arrest](acls/post_arrest.pdf); [Bradycardia](acls/bradycardia.pdf); [Tachycardia](acls/tachycardia.pdf)
 - [Drug References](drugs/reference)
 - [Resources by Specialty](by-specialty)
