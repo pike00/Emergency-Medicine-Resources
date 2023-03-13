@@ -18,13 +18,6 @@ params:
     Title: Emergency Medicine Resources
     Content: Welcome to my Home Page for On shift resources, clinical teaching, and more
 
-
-menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-
 outputs:
     home:
         - HTML
