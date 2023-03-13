@@ -31,6 +31,7 @@ aliases: [
 
 
 ## Additional Resources
+- [Suture Repair Techniques](/pdfs/Wound%20Repair%20Techniques.pdf)
 - [Guide To Suture Packaging](/img/Sutures.webp)
 - [Closing the Gap](https://lacerationrepair.com/)
 - [Suture Materials (Core EM)](https://coreem.net/core/suture-materials/)
