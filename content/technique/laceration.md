@@ -39,3 +39,4 @@ aliases: [
 - [EBMedicine Laceration Reference](https://foamed.ebmedicine.net/rapid-reference/laceration-repair-methods-and-suture-selection/)
 - [Needle References](/pdfs/sutures/Ethicon%20Suture%20Needles.pdf)
 - [Wounds and Lacerations](https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/cpike2_jh_edu/EZT49mgZj4lKiLhUVH0jVXIB4IiEvhJNrpf3t1xy0QLOZQ?e=yr9D9p)
+- Suture Selection Presentation (2023-03-17): [PDF](/pdfs/Suture%20Selection.pdf), [PPTX](https://livejohnshopkins-my.sharepoint.com/:p:/r/personal/cpike2_jh_edu/Documents/Medicine/2%20Residency/PGY-1/Intern%20Presentation/Suture%20Selection.pptx?d=w1e73002d026d408090b5ff2597a989f6&csf=1&web=1&e=GQ7L9H)
