@@ -1,9 +1,5 @@
 # Drug Reference
 
-## Local Anesthestic
-
-### [Toxicity](local_anesthetic_toxicity)
-
 ## [Electrolyte Repletion](/electrolytes)
 
 ## Benzodiazepine Oral Equivalence [Reference](https://foamed.ebmedicine.net/rapid-reference/benzodiazepine-oral-equivalence/)

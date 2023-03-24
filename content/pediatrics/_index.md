@@ -1,4 +1,9 @@
-# Pediatrics
+---
+title: Pediatrics
+aliases: [
+    "/peds/",
+]
+---
 
 ## Resuscitation
 

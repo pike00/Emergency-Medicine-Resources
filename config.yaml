@@ -1,4 +1,4 @@
-# baseURL: 'https://pikemd.com/'
+baseURL: 'https://pikemd.com/'
 languageCode: en-us
 title: EM Resources
 theme: PaperMod
@@ -17,13 +17,6 @@ params:
   homeInfoParams:
     Title: Emergency Medicine Resources
     Content: Welcome to my Home Page for On shift resources, clinical teaching, and more
-
-
-menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
 
 outputs:
     home:

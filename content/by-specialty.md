@@ -70,6 +70,7 @@ showToc: true
 - [Perinatology](https://www.perinatology.com/)
 - [Methods of Dating Pregnancy by Ultrasound](/img/Redating%20Pregnancies%20Based%20on%20US.png)[^1]
 - [Bedsider.org (Birth Control Reference)](https://www.bedsider.org/birth-control)
+- [Medications Safe for use in Pregnancy](drugs/pregnancy)
 
 ## Orthopedics
 
