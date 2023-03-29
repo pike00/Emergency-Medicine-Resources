@@ -10,14 +10,14 @@ showToc: true
 
 ## Ultrasound
 
-- [5 minute sono Ultrasound Reference (PDF)](/pdfs/Ultrasound%20Basic%20Reference%20Values.pdf)
+- [5 minute sono Ultrasound Reference (PDF)](/pdfs/ultrasound-basic-reference-values.pdf)
 - [ACEP Sonoguide](https://www.acep.org/sonoguide/basic/)
 - [The Pocus Atlas](https://www.thepocusatlas.com/), [The Pocus Atlas Evidence Atlas](https://www.thepocusatlas.com/ea-home)
 - [Core Ultrasound](https://www.coreultrasound.com/)
 - [Highland EM Ultrasound Guided Procedures](https://highlandultrasound.com/)
 - [Ultrasound of the Week](https://www.coreultrasound.com/category/ultrasound-of-the-week/)
 - [Clinical Echocardiogram Book](https://ecgwaves.com/course/clinical-echocardiography/)
-- [Ultrasound Measurements Pocket Card (PDF)](/pdfs/Ultrasound%20Measurements%20Pocketcard%204x6.pdf)
+- [Ultrasound Measurements Pocket Card (PDF)](/pdfs/ultrasound-measurements-pocketcard-4x6.pdf)
 - [Ultrasound G.E.L Evidence from the Literature](https://www.ultrasoundgel.org/)
 
 ## ECG
@@ -34,7 +34,7 @@ showToc: true
 
 ## Splinting
 
-- [EMRA Sports Medicine Splinting Guide](/pdfs/EMRA%20Sports%20Medicine%20Splinting%20Techniques.pdf)
+- [EMRA Sports Medicine Splinting Guide](/pdfs/emra-sports-medicine-splinting-techniques.pdf)
 - [AliEM SplintER Series](https://www.aliem.com/splinter-series/)
   - [Principles](https://www.aliem.com/splinter-series-splint-principles-101/)
   - [Application](https://www.aliem.com/splinter-series-splint-application-principles-102/)

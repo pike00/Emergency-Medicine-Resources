@@ -20,7 +20,7 @@
 
 ### Push Dose
 
-[Preparing Push Dose Pressor Syringes](/pdfs/push-dose-pressors.pdf), [EMCrit Page on Push Dose Pressors](https://emcrit.org/emcrit/bolus-dose-pressors/)
+[Preparing Push Dose Pressor Syringes](/pdfs/push-dose-pressors.pdf), [emcrit page on push dose pressors](https://emcrit.org/emcrit/bolus-dose-pressors/)
 
 - Phenylephrine 50-200 mcg [For 100 mcg/mL = 0.5 - 2.0 mL]
   - To Prepare 100mcg/mL: 10mg Phenylephrine + 100mL of NS

@@ -12,16 +12,13 @@ title: Choosing the Right Antibiotic
 
 ## Graphs
 
-![]()
-{{< figure src="/img/Antibiotic%20Coverage%20Graph%201.png" >}}
-{{< figure src="/img/Coverage Graph 1.png" >}}
+![][/img/antibiotic-coverage-graph-1.png]
 
-<!-- ![Antibiotic Graph](/img/antibiotic%20coverage%20graph%202.jpg) -->
+![](/img/antibiotic-coverage-graph-2.jpg)
 
-<!-- ![Antibiotic Graph](/img/antibiotic%20coverage%20graph%202.jpg) -->
 
 ## Useful Links
 
 - [tl;dr Pharmacy](/pdfs/tldr_antibiotics_cheatsheet.pdf)
-- [Antibiotic Pocket Guide](/pdfs/Antibiotic%20Pocket%20Guide.pdf)
-- [Classification of Antibiotics](/img/Classification%20of%20Antibiotics.png)
+- [Antibiotic Pocket Guide](/static/pdfs/antibiotic-pocket-guide.pdf)
+- [Classification of Antibiotics](/static/img/classification-of-antibiotics.png)

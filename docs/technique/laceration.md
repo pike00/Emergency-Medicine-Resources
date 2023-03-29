@@ -31,12 +31,12 @@ aliases: [
 
 
 ## Additional Resources
-- [Suture Repair Techniques](/pdfs/Wound%20Repair%20Techniques.pdf)
-- [Guide To Suture Packaging](/img/Sutures.webp)
+- [Suture Repair Techniques](/pdfs/wound-repair-techniques.pdf)
+- [Guide To Suture Packaging](/img/sutures.webp)
 - [Closing the Gap](https://lacerationrepair.com/)
 - [Suture Materials (Core EM)](https://coreem.net/core/suture-materials/)
-- [AliEM Pocket Card (PDF)](/pdfs/sutures/ALiEM%20Card%20Laceration%20Repair%20and%20Sutures.pdf)
+- [AliEM Pocket Card (PDF)](/pdfs/sutures/aliem-card-laceration-repair-and-sutures.pdf)
 - [EBMedicine Laceration Reference](https://foamed.ebmedicine.net/rapid-reference/laceration-repair-methods-and-suture-selection/)
-- [Needle References](/pdfs/sutures/Ethicon%20Suture%20Needles.pdf)
+- [Needle References](/pdfs/sutures/ethicon-suture-needles.pdf)
 - [Wounds and Lacerations](https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/cpike2_jh_edu/EZT49mgZj4lKiLhUVH0jVXIB4IiEvhJNrpf3t1xy0QLOZQ?e=yr9D9p)
-- [Suture Selection Presentation (2023-03-17)](pdfs/Suture%20Selection.pdf)
+- [Suture Selection Presentation (2023-03-17)](pdfs/Suture-Selection.pdf)

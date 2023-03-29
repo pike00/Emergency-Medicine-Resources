@@ -23,8 +23,8 @@ sidebar_position: 1
 
 ## Billing and Coding
 
-- [2023 MDM Table](pdfs/Medical%20Decision%20Making%20Risk%20Table.pdf)
-- [2023 AMA E+M Guidelines](pdfs/AMA%20E+M%20Guidelines%202023.pdf)
+- [2023 MDM Table](pdfs/Medical-Decision-Making-Risk-Table.pdf)
+- [2023 AMA E+M Guidelines](pdfs/AMA-E+M-Guidelines-2023.pdf)
 
 ## High-Yield Websites
 

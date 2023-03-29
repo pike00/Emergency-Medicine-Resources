@@ -2,7 +2,7 @@
 title: Electrolyte Repletion
 ---
 
-![Overview Chart](/electrolytes/Electrolyte Management Chart.jpg)
+![Overview Chart](/electrolytes/electrolyte management chart.jpg)
 
 ## Hypokalemia
 
