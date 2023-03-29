@@ -12,6 +12,7 @@ title: Choosing the Right Antibiotic
 
 ## Graphs
 
+![]()
 {{< figure src="/img/Antibiotic%20Coverage%20Graph%201.png" >}}
 {{< figure src="/img/Coverage Graph 1.png" >}}
 
