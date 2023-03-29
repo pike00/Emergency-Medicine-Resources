@@ -2,7 +2,7 @@
 title: Electrolyte Repletion
 ---
 
-![Overview Chart](/electrolytes/Electrolyte%20Management%20Chart.jpg)
+![Overview Chart](/electrolytes/Electrolyte Management Chart.jpg)
 
 ## Hypokalemia
 
@@ -16,7 +16,7 @@ title: Electrolyte Repletion
 ## Hypophosphatemia
 
 ![Hypophosphatemia](/electrolytes/hypophosphatemia.png)
-![Components of Phosphate Repletion Products](/electrolytes/phosphate%20repletion%20components.png)
+![Components of Phosphate Repletion Products](/electrolytes/phosphate repletion components.png)
 
 ## Hypocalcemia
 

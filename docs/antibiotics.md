@@ -15,7 +15,9 @@ title: Choosing the Right Antibiotic
 {{< figure src="/img/Antibiotic%20Coverage%20Graph%201.png" >}}
 {{< figure src="/img/Coverage Graph 1.png" >}}
 
-![Antibiotic Graph](/img/antibiotic%20coverage%20graph%202.jpg)
+<!-- ![Antibiotic Graph](/img/antibiotic%20coverage%20graph%202.jpg) -->
+
+<!-- ![Antibiotic Graph](/img/antibiotic%20coverage%20graph%202.jpg) -->
 
 ## Useful Links
 

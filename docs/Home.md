@@ -1,6 +1,8 @@
 ---
 title: Home
 weight: 0
+sidebar_position: 1
+
 ---
 
 
